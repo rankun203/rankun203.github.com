@@ -3,7 +3,13 @@ layout: post
 title: "透明网络"
 date: 2013-12-15 10:36
 comments: true
-categories: [gfw, youtube, 墙]
+categories:
+- Experience
+- GFW
+tags:
+- GFW
+- YouTube
+- Chrome
 ---
 
 ###目录：

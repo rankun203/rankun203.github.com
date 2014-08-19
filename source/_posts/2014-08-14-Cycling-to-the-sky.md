@@ -1,9 +1,9 @@
 title: Cycling to the sky
 date: 2014-08-14 12:44:06
 categories:
-- Diary
+- 生活
 - 骑行
-tags: 
+tags:
 - Tibet
 - Cycling
 - 318

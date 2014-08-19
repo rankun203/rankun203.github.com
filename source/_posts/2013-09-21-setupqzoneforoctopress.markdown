@@ -3,9 +3,15 @@ layout: post
 title: "为Octopress的Greyshade主题添加QQ空间的链接"
 date: 2013-09-21 16:53
 comments: true
-categories: [octopress, github]
+categories:
+- Programming
+- Octopress
+tags:
+- Octopress
+- github
 ---
-其实做这个之前我苦想过有没有必要，因为编程社区会不会有必要访问`QQ空间`还说不定——不过后来我想，其实我的大多数社交活动还是在`QQ空间`上，`Facebook`和`Google+`都上的不多，主要是现在还没贡献多少，在开源界的人缘还没积累起来。
+
+其实做这个之前我想过有没有必要，因为编程社区会不会有必要访问`QQ空间`还说不定——不过后来我想，其实我的大多数社交活动还是在`QQ空间`上，`Facebook`和`Google+`都上的不多，主要是现在还没贡献多少，在开源界的人缘还没积累起来。
 
 好，废话少说，看过程，该方法适用于任一链接，可以添加任意链接。
 <!--more-->

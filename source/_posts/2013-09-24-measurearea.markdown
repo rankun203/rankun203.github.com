@@ -3,8 +3,14 @@ layout: post
 title: "测量面积的工具"
 date: 2013-09-24 08:41
 comments: true
-categories: [android, java]
+categories:
+- Programming
+- Ideas
+tags:
+- Android
+- Sensors
 ---
+
 一个还没正式开始就被技术上劝下来的项目，曾经花了我很多时间来设想，下载了好几个相关传感器的Demo。
 
 之前的基本构思是，通过加速度计(重力感应使用的传感器)，获取瞬时加速度，通过不断的积分而获得当前速度，然后计算距离，然后绘制行动路径的多边形，然后计算面积。

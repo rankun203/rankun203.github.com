@@ -3,8 +3,16 @@ layout: post
 title: "一些关于词典和背单词的项目记录"
 date: 2013-09-21 20:46
 comments: true
-categories: [shell, dictionary, java]
+categories:
+- Programming
+- Java
+tags:
+- Dictionary
+- Shell
+- Java
+- Git
 ---
+
 几个月前换上了Linux，感觉不错:), 就是星际词霸怎么排版有点怪？而且单词本的也没有…其实主要是希望能有`柯林斯词典`
 
 呵呵，没办法，不习惯每次都要打开浏览器，然后点击有道词典的链接，然后输入单词…  

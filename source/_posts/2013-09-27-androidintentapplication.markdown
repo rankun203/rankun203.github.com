@@ -3,8 +3,15 @@ layout: post
 title: "Android Activity之间传递数据"
 date: 2013-09-27 16:22
 comments: true
-categories: [java, android]
+categories:
+- Programming
+- Android
+tags:
+- Android
+- Activity
+- Learning Android
 ---
+
 Android在Activity间传递数据的方法有以下几种
 ------------------------------------------
 ###使用Intent绑定内容
@@ -124,7 +131,7 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 	}
 }
 ```
-[startActivityForResult]: https://developer.android.com/reference/android/app/Activity.html#startActivityForResult(android.content.Intent,%20int) 
+[startActivityForResult]: https://developer.android.com/reference/android/app/Activity.html#startActivityForResult(android.content.Intent,%20int)
 [onActivityResult]: https://developer.android.com/reference/android/app/Activity.html#onActivityResult(int,%20int,%20android.content.Intent)
 [Intent]: https://developer.android.com/intl/zh-cn/reference/android/content/Intent.html
 [putStringExtra]: https://developer.android.com/reference/android/content/Intent.html#putExtra(java.lang.String,%20java.lang.String[])

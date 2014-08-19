@@ -3,8 +3,15 @@ layout: post
 title: "大道至简，亦至繁"
 date: 2013-10-03 23:49
 comments: true
-categories: [android, linux, windows]
+categories:
+- Programming
+- Linux
+tags:
+- Android
+- Learning Android
+- Linux
 ---
+
 从什么时候，我感觉使用Linux就是个悲剧了呢？或许很早就感觉到了。
 
 其实我很喜欢现在这样，命令行也可以让好多事情变得简单，比如，装个软件，用命令行只要打一行字母，软件就装好了，在Windows下面要去下载，然后一堆安装向导，还要时刻小心被坑。

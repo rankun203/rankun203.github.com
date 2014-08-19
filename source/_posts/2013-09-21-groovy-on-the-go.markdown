@@ -3,8 +3,14 @@ layout: post
 title: "Groovy 学习历程"
 date: 2013-09-21 00:25
 comments: true
-categories: [groovy, java]
+categories:
+- Programming
+- Groovy
+tags:
+- Java
+- Groovy
 ---
+
 我渐渐的有点喜欢这个Groovy了，哈哈哈哈
 ```bash
 groovy -e "int i = 5;System.out.println(new String('I\'m ' + i + ' years old.'));"

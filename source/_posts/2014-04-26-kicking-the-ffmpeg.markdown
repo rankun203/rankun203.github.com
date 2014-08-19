@@ -4,6 +4,12 @@ title: "Using FFmpeg to do some simple video process."
 date: 2014-04-26 21:23:05 +0800
 comments: true
 categories: ["ffmpeg"]
+- Programming
+- FFMPEG
+tags:
+- FFMPEG
+- Convert Videos
+- Concatenate Videos
 ---
 
 Tip:
@@ -14,7 +20,7 @@ Tip:
 
 ###Because
 
-FFmpeg can't concatenate .mp4 videos directly, but .ts is ok. 
+FFmpeg can't concatenate .mp4 videos directly, but .ts is ok.
 
 ###So
 

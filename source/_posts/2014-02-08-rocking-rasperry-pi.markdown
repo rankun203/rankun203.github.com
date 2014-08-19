@@ -4,6 +4,14 @@ title: "Rocking Rasperry Pi"
 date: 2014-02-08 15:55:37 +0800
 comments: true
 categories: [linux, RasperryPi]
+- Programming
+- Raspberry Pi
+tags:
+- Raspberry Pi
+- Debian
+- Linux
+- Mplayer
+- Video Streaming
 ---
 
 ##Keep in mind
@@ -51,7 +59,7 @@ sudo dhclient wlan0
 
 ##Load Camera to `/dev/video0` [HELP](http://www.linux-projects.org/modules/sections/index.php?op=viewarticle&artid=14)
 ```bash
-uv4l --driver raspicam --auto-video_nr 
+uv4l --driver raspicam --auto-video_nr
 ```
 
 ##Motion detect [HELP](http://www.linux-projects.org/modules/sections/index.php?op=viewarticle&artid=16)

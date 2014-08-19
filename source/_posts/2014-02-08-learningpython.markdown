@@ -3,7 +3,12 @@ layout: post
 title: "Python Learning on"
 date: 2014-02-08 07:40
 comments: true
-categories: [python, programming]
+categories:
+- Programming
+- Python
+tags:
+- Python
+- Learning Python
 ---
 
 ###Knowledge Points
