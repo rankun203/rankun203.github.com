@@ -3,7 +3,7 @@ layout: post
 title: "Rocking Rasperry Pi"
 date: 2014-02-08 15:55:37 +0800
 comments: true
-categories: [linux, RasperryPi]
+categories:
 - Programming
 - Raspberry Pi
 tags:

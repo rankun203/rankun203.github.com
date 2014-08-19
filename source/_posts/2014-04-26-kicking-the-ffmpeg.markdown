@@ -3,7 +3,7 @@ layout: post
 title: "Using FFmpeg to do some simple video process."
 date: 2014-04-26 21:23:05 +0800
 comments: true
-categories: ["ffmpeg"]
+categories:
 - Programming
 - FFMPEG
 tags:
