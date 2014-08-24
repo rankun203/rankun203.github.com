@@ -14,7 +14,7 @@ tags:
 
 ##colnect.com
 
-网站概况：colnect.com是一家面向收藏家的网站，colnect即collectors connection / connect collectors，意在连接收藏家，做收藏家的好帮手。网站现在已经有来自221个国家的7万8千余名注册用户。
+网站概况：colnect.com是一家面向收藏家的网站，colnect即collectors connection / connect collectors，意在连接收藏家，做收藏家的好帮手。网站现在已经有来自221个国家的7万8千余名注册收藏家。
 
 网站功能：收藏品目录运作方式与百度百科类似，每一类收藏品都包含很多具体的收藏品。可以浏览及分享收藏品，注册用户可以标注为自己拥有这个收藏品、有而且可供交换、希望拥有等。用户也可以发起请求添加colnect还没有收录的收藏品，如果你有很多收藏品，将它们全部记录在colnect网站上将会给你的收藏品管理浏览及交易带来极大的方便。
 
