@@ -10,7 +10,7 @@ tags:
 - Network Marketing
 ---
 
-大！！！家，Colnect.com的创始人决定要来中国开展业务了。
+大！！！家，Colnect.com决定要来中国开展业务了。
 
 ##colnect.com
 
@@ -53,7 +53,7 @@ tags:
 
 祝大家收藏愉快~~
 
-##Colnect创始人邮件原文
+##Colnect招聘邮件原文
 
 I would want to try some marketing efforts in China and was wondering if you know anyone you'd recommend.
 
