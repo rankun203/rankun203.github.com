@@ -55,23 +55,19 @@ tags:
 
 ##Colnect创始人邮件原文
 
-I would want to try some marketing efforts in
-China and was wondering if you know anyone you'd recommend.
+I would want to try some marketing efforts in China and was wondering if you know anyone you'd recommend.
 
 The tasks would be:
 
-* Opening Frognector profiles in relevant social networks and finding
-collector groups there to interact with.
-* Find online forums and blogs that deal with collecting and expose
-Colnect there.
-* Find highest ranking sites on Baidu for search terms relevant to
-Colnect and see if a link exchange could be arranged.
+* Opening Frognector profiles in relevant social networks and finding collector groups there to interact with.
+* Find online forums and blogs that deal with collecting and expose Colnect there.
+* Find highest ranking sites on Baidu for search terms relevant to Colnect and see if a link exchange could be arranged.
 * Find collector clubs and approach them with a special offer from Colnect.
 
 The basics of this job are not too demanding and the person can work from home.
+
 * Manageable English so I can communicate well with that person.
-* Fast typing on the computer and very good knowledge of social
-networks in China.
+* Fast typing on the computer and very good knowledge of social networks in China.
 * At least 2 daily hours but possibly a full-time undertaking for a few weeks.
 
 Let me know if something comes to mind and if you have any idea what an hourly pay for such a job should be. Thanks
