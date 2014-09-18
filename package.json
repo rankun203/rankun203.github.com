@@ -6,5 +6,8 @@
     "hexo-renderer-ejs": "*",
     "hexo-renderer-stylus": "*",
     "hexo-renderer-marked": "*"
+  },
+  "scripts": {
+    "replaceImageUrl": "hexo generate"
   }
 }
