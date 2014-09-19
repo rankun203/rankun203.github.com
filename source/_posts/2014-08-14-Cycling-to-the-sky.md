@@ -123,36 +123,36 @@ console.log(""+ "\n" +
 
 ![直到中午11点过，我们还没出成都，还在城里打转，成都还是挺大的，这是在我们学校附近，11点了，按照惯例骑个几公里，亮哥都要调一下车车:p](http://blog.mindfine.com/images%2FIMG_20140709_105944.jpg?imageView2/1/w/800/h/480/q/90)
 
-<video class="video" style="width: 360px;" controls>
+<video class="video" style="width: 800px;" controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_120802.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">走向qiong莱</span>
 
-<video class="video" style="width: 600px;" controls>
+<video class="video" style="width: 800px;" controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_145754.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">走向qiong莱</span>
 
-<video class="video" style="width: 600px;" controls>
+<video class="video" style="width: 800px;" controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_151422.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">走向qiong莱</span>
 
-<video class="video" style="width: 600px;" controls>
+<video class="video" style="width: 800px;" controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_152434.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
-</video><span class="caption">遇见了范老弟，一起走吧^_^</span>
+</video><span class="caption">遇见了范兄，一起走吧^_^</span>
 
 ![路过qiong莱](http://blog.mindfine.com/images%2FIMG_20140709_152626.jpg?imageView2/1/w/800/h/480/q/90)
 
-![很不幸，范老弟扎胎了……](http://blog.mindfine.com/images%2FIMG_20140709_161531.jpg?imageView2/1/w/800/h/480/q/90)
+![很不幸，范兄扎胎了……](http://blog.mindfine.com/images%2FIMG_20140709_161531.jpg?imageView2/1/w/800/h/480/q/90)
 
-<video class="video" style="width: 600px;" controls>
+<video class="video" style="width: 800px;" controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_163151.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">走向qiong莱</span>
 
-<video class="video" style="width: 600px;" controls>
+<video class="video" style="width: 800px;" controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_163751.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">走向qiong莱</span>
@@ -168,5 +168,6 @@ console.log(""+ "\n" +
 
 ![汽车站附近的西蜀望月楼](http://blog.mindfine.com/images%2FIMG_20140709_220059_HDR.jpg?imageView2/1/w/800/h/480/q/90)
 
+次日清晨，因为前一天已经骑了一天了，有了些想法。范兄要寄一些东西回去，还有的要取钱，我要买骑行装备（虽然最后就买到了一个骑行内裤……）
 
 ***To be continued...***
