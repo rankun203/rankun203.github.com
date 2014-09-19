@@ -14,9 +14,9 @@ tags:
 ---
 
 <style>
-.video {
-  max-width: 100%;
-}
+.video { max-width: 100%; }
+.floatleft { float: left; }
+.clearleft { clear: left; }
 </style>
 
 ##To do
@@ -37,7 +37,7 @@ tags:
 
 终于，在经历了24天骑行之后，我们到达了拉萨。布达拉宫，这座传说中的城堡现在就在我们的眼前。
 
-骑行的每一天都很精彩，经常会遇到一些让自己深思的事儿，不过呢，大致跟以往的世界观还是吻合的。
+骑行的每一天都很精彩，经常会遇到一些让自己深思的事儿，世界观没有太多的改变，更多地得到了加强。
 
 <!--more-->
 
@@ -78,7 +78,7 @@ console.log(""+ "\n" +
 
 >  不觉得，不过胸怀更宽广是事实。
 
-是呀，不管是相信老天的存在或胸怀更宽广，都说明着一个人对自然更加的尊敬了，仿佛神明就在自己的眼前。
+我想，不管是相信老天的存在或胸怀更宽广，都说明着一个人对自然更加的尊敬了，仿佛神明就在自己的眼前。手持佛珠也是这么个道理，不是说我就一定信佛，而是信善。
 
 ####寻找我继续奋斗的力量
 
@@ -123,22 +123,22 @@ console.log(""+ "\n" +
 
 ![直到中午11点过，我们还没出成都，还在城里打转，成都还是挺大的，这是在我们学校附近，11点了，按照惯例骑个几公里，亮哥都要调一下车车:p](http://blog.mindfine.com/images%2FIMG_20140709_105944.jpg?imageView2/1/w/800/h/480/q/90)
 
-<video class="video" style="width: 800px;" controls>
+<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A37%3A17.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_120802.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
-</video><span class="caption">走向qiong莱</span>
+</video><span class="caption">qiong莱</span>
 
-<video class="video" style="width: 800px;" controls>
+<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A38%3A46.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_145754.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
-</video><span class="caption">走向qiong莱</span>
+</video><span class="caption">奔向qiong莱</span>
 
-<video class="video" style="width: 800px;" controls>
+<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A38%3A46.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_151422.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
-</video><span class="caption">走向qiong莱</span>
+</video><span class="caption">奔向qiong莱</span>
 
-<video class="video" style="width: 800px;" controls>
+<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A38%3A46.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_152434.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">遇见了范兄，一起走吧^_^</span>
@@ -147,15 +147,15 @@ console.log(""+ "\n" +
 
 ![很不幸，范兄扎胎了……](http://blog.mindfine.com/images%2FIMG_20140709_161531.jpg?imageView2/1/w/800/h/480/q/90)
 
-<video class="video" style="width: 800px;" controls>
+<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A38%3A46.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_163151.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
-</video><span class="caption">走向qiong莱</span>
+</video><span class="caption">奔向qiong莱</span>
 
-<video class="video" style="width: 800px;" controls>
+<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A38%3A46.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_163751.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
-</video><span class="caption">走向qiong莱</span>
+</video><span class="caption">奔向qiong莱</span>
 
 
 ####亮哥的故乡——雅安
@@ -169,5 +169,7 @@ console.log(""+ "\n" +
 ![汽车站附近的西蜀望月楼](http://blog.mindfine.com/images%2FIMG_20140709_220059_HDR.jpg?imageView2/1/w/800/h/480/q/90)
 
 次日清晨，因为前一天已经骑了一天了，有了些想法。范兄要寄一些东西回去，还有的要取钱，我要买骑行装备（虽然最后就买到了一个骑行内裤……）
+
+![称了一下，125斤……我真的在很辛苦的养自己了，不知道怎么还是这么瘦。](http://blog.mindfine.com/images%2FIMG_20140710_101813.jpg?imageView2/1/w/350/q/90)![在这些熟悉而又陌生的巷子间晃悠](http://blog.mindfine.com/images%2FIMG_20140710_102251.jpg?imageView2/1/w/350/q/90)
 
 ***To be continued...***
