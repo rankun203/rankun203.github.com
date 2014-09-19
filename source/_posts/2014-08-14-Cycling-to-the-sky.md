@@ -113,57 +113,60 @@ console.log(""+ "\n" +
 
 按照事先的约定，9号早上几经辗转到了亮哥住处，又见到了他，不过这一次见到他意义与从前大不相同了，我们现在可是要一起度过接下来一个月的伙伴了。
 
-![电梯仓里，想到接下来要走的路，我们暗自发笑](http://localhost/file/imgs/_IMG_20140709_094615.jpg)
+![电梯仓里，想到接下来要走的路，我们暗自发笑](http://blog.mindfine.com/images%2FIMG_20140709_094615.jpg?imageView2/1/w/800/h/480/q/90)
 
-![把车停在某个包子铺门前，来碗稀饭，咱就跟往常一样，只是快到中午了～](http://localhost/file/imgs/_IMG_20140709_095313.jpg)
+![把车停在某个包子铺门前，来碗稀饭，咱就跟往常一样，只是快到中午了～](http://blog.mindfine.com/images%2FIMG_20140709_095313.jpg?imageView2/1/w/800/h/480/q/90)
 
-![亮哥真的还是挺白的，直到07月09号，哈哈^_^](http://localhost/file/imgs/_IMG_20140709_095736.jpg)
+![亮哥真的还是挺白的，直到07月09号，哈哈^_^](http://blog.mindfine.com/images%2FIMG_20140709_095736.jpg?imageView2/1/w/800/h/480/q/90)
 
-![琢磨了半天，我该摆个什么pose好呢，卖萌不好意思，帅气的动作也不会，就来了个典型儿的，坐着……](http://localhost/file/imgs/_IMG_20140709_095807.jpg)
+![琢磨了半天，我该摆个什么pose好呢，卖萌不好意思，帅气的动作也不会，就来了个典型儿的，坐着……](http://blog.mindfine.com/images%2FIMG_20140709_095807.jpg?imageView2/1/w/800/h/480/q/90)
 
-![直到中午11点过，我们还没出成都，还在城里打转，成都还是挺大的，这是在我们学校附近，11点了，按照惯例骑个几公里，亮哥都要调一下车车:p](http://localhost/file/imgs/_IMG_20140709_105944.jpg)
+![直到中午11点过，我们还没出成都，还在城里打转，成都还是挺大的，这是在我们学校附近，11点了，按照惯例骑个几公里，亮哥都要调一下车车:p](http://blog.mindfine.com/images%2FIMG_20140709_105944.jpg?imageView2/1/w/800/h/480/q/90)
 
 <video class="video" style="width: 360px;" controls>
-  <source src="http://localhost/file/videos/VID_20140709_120802.mp4" type="video/mp4">
+  <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_120802.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">走向qiong莱</span>
 
 <video class="video" style="width: 600px;" controls>
-  <source src="http://localhost/file/videos/VID_20140709_145754.mp4" type="video/mp4">
+  <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_145754.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">走向qiong莱</span>
 
 <video class="video" style="width: 600px;" controls>
-  <source src="http://localhost/file/videos/VID_20140709_151422.mp4" type="video/mp4">
+  <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_151422.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">走向qiong莱</span>
 
 <video class="video" style="width: 600px;" controls>
-  <source src="http://localhost/file/videos/VID_20140709_152434.mp4" type="video/mp4">
+  <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_152434.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">遇见了范老弟，一起走吧^_^</span>
 
-![路过qiong莱](http://localhost/file/imgs/_IMG_20140709_152626.jpg)
+![路过qiong莱](http://blog.mindfine.com/images%2FIMG_20140709_152626.jpg?imageView2/1/w/800/h/480/q/90)
 
-![很不幸，范老弟扎胎了……](http://localhost/file/imgs/_IMG_20140709_161531.jpg)
+![很不幸，范老弟扎胎了……](http://blog.mindfine.com/images%2FIMG_20140709_161531.jpg?imageView2/1/w/800/h/480/q/90)
 
 <video class="video" style="width: 600px;" controls>
-  <source src="http://localhost/file/videos/VID_20140709_163151.mp4" type="video/mp4">
+  <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_163151.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">走向qiong莱</span>
 
 <video class="video" style="width: 600px;" controls>
-  <source src="http://localhost/file/videos/VID_20140709_163751.mp4" type="video/mp4">
+  <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_163751.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">走向qiong莱</span>
 
 
 ####亮哥的故乡——雅安
 
-![一进城就看到这样一个标志物，马踏飞球、立马滚蛋、各种称呼都有，还有司机师傅叫马踏飞燕的:p](http://localhost/file/imgs/_IMG_20140709_192311.jpg)
+![一进城就看到这样一个标志物，马踏飞球、立马滚蛋、各种称呼都有，还有司机师傅叫马踏飞燕的:p](http://blog.mindfine.com/images%2FIMG_20140709_192311.jpg?imageView2/1/w/800/h/480/q/90)
 
 我们出发的确实晚了些，但还是按时到了雅安。到了雅安那一刻我很激动哇，终于踏出了第一步，路上我还调侃亮哥说：“要想回去的话还来得及:p”。
 
-在这儿遇到了我大二一起出去骑过自行车的朋友小白和他的一个朋友，他刚刚从康定那边徒搭回来。难得一见，我们都很高兴，他们给我们讲了很多路上要注意的地方。
+在这儿遇到了我大二一起出去骑过自行车的朋友小白和他的一个朋友，他刚刚从康定那边徒搭回来。难得一见，我们都很高兴，他们给我们讲了很多路上要注意的地方。完后还一起逛了一圈雅安，亮哥领路;)
+
+![汽车站附近的西蜀望月楼](http://blog.mindfine.com/images%2FIMG_20140709_220059_HDR.jpg?imageView2/1/w/800/h/480/q/90)
+
 
 ***To be continued...***
