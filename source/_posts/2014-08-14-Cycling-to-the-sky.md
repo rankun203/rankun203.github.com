@@ -137,12 +137,12 @@ console.log(""+ "\n" +
   Your browser does not support HTML5 video.
 </video><span class="caption">奔向qiong莱</span>
 
-<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A38%3A46.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
+<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A38%3A56.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_151422.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">奔向qiong莱</span>
 
-<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A38%3A46.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
+<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A39%3A28.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_152434.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">遇见了范兄，一起走吧^_^</span>
@@ -151,12 +151,12 @@ console.log(""+ "\n" +
 
 ![很不幸，范兄扎胎了……](http://blog.mindfine.com/images%2FIMG_20140709_161531.jpg?imageView2/1/w/800/h/480/q/90)
 
-<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A38%3A46.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
+<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A39%3A44.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_163151.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">奔向qiong莱</span>
 
-<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A38%3A46.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
+<video class="video" style="width: 800px;" poster="http://blog.mindfine.com/images%2FScreenshot_from_2014-09-19_21%3A39%3A50.png?imageView2/1/w/800/h/480/q/90" preload='none' controls>
   <source src="http://rankun-org-statics.qiniudn.com/VID_20140709_163751.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video><span class="caption">奔向qiong莱</span>
