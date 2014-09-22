@@ -387,7 +387,7 @@ console.log(""+ "\n" +
 ![今天我们去剪子弯山、卡子拉山、红龙乡～～要多美有多美，好吧，这些个搭车的是体会不到了，他们直接坐车去理塘，拜拜～](http://blog.mindfine.com/images%2FIMG_20140716_073121.jpg?imageView2/1/w/800/h/480/q/90)
 ![爬坡啊爬坡](http://blog.mindfine.com/images%2FIMG_20140716_074922.jpg?imageView2/1/w/800/h/480/q/90)
 
-爬上了剪子弯山之后，一天的风光才刚刚开始，接下来是不断的爬坡、下坡、爬坡、下坡一共120公里。剪子弯山、卡子拉山这些山都像是高原上升起的又一座座山脉，这也是我川藏线全程感觉最幸福的地方 :)
+爬上了剪子弯山之后，一天的风光才刚刚开始，接下来是不断的爬坡、下坡、爬坡、下坡一共120公里。剪子弯山、卡子拉山是横断山中最为宽广的山脉，这也是我川藏线全程感觉最幸福的地方 :)
 
 ![国道318！动感的旋律](http://blog.mindfine.com/images%2FIMG_20140716_082538.jpg?imageView2/1/w/800/h/480/q/90)
 ![天路十八弯～很美的道路吧:-)](http://blog.mindfine.com/images%2FIMG_20140716_084918.jpg?imageView2/1/w/800/h/480/q/90)
@@ -523,7 +523,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![看看自己的车子，再看看后面的山，妈耶，这要是滑下来了，就像前面堵车那段发生的一样……](http://blog.mindfine.com/images%2FIMG_20140717_175253.jpg?imageView2/1/w/800/h/480/q/90)
 ![滔滔，泥巴河:D](http://blog.mindfine.com/images%2FIMG_20140717_180842.jpg?imageView2/1/w/800/h/480/q/90)
 ![大块头，加油啊！加油！](http://blog.mindfine.com/images%2FIMG_20140717_182209.jpg?imageView2/1/w/800/h/480/q/90)
-![这小伙儿冷的不行了，骑个车不容易，我们这车……也载不下更多的人了，天快和黑了，自求多福吧，出来西藏混应该还是有准备的](http://blog.mindfine.com/images%2FIMG_20140717_185235.jpg?imageView2/1/w/800/h/480/q/90)
+![这小伙儿冷的不行了，骑个车不容易，我们这车……实在是载不下更多的人和车了，天快和黑了，自求多福吧……出来西藏混应该还是有准备的，白白了哈](http://blog.mindfine.com/images%2FIMG_20140717_185235.jpg?imageView2/1/w/800/h/480/q/90)
 
 泥石流
 
@@ -537,14 +537,14 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 
 芒康，电，食物，煮面，网络
 
-![这面不单煮噢，人家发动一次高压锅不容易](http://blog.mindfine.com/images%2FIMG_20140718_093851.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140718_095300.jpg](http://blog.mindfine.com/images%2FIMG_20140718_095300.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140718_143302.jpg](http://blog.mindfine.com/images%2FIMG_20140718_143302.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140718_150611.jpg](http://blog.mindfine.com/images%2FIMG_20140718_150611.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140718_154344.jpg](http://blog.mindfine.com/images%2FIMG_20140718_154344.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140718_154409.jpg](http://blog.mindfine.com/images%2FIMG_20140718_154409.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140718_190846.jpg](http://blog.mindfine.com/images%2FIMG_20140718_190846.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140718_194119.jpg](http://blog.mindfine.com/images%2FIMG_20140718_194119.jpg?imageView2/1/w/800/h/480/q/90)
+![这面不单煮噢，人家发动一次高压锅不容易:D](http://blog.mindfine.com/images%2FIMG_20140718_093851.jpg?imageView2/1/w/800/h/480/q/90)
+![提款机、、没有电的提款机、、](http://blog.mindfine.com/images%2FIMG_20140718_095300.jpg?imageView2/1/w/800/h/480/q/90)
+![从芒康到西藏各地的大巴](http://blog.mindfine.com/images%2FIMG_20140718_143302.jpg?imageView2/1/w/800/h/480/q/90)
+![买些麻糖来吃撒](http://blog.mindfine.com/images%2FIMG_20140718_150611.jpg?imageView2/1/w/800/h/480/q/90)
+![挺喜欢这种脆脆的感觉](http://blog.mindfine.com/images%2FIMG_20140718_154344.jpg?imageView2/1/w/800/h/480/q/90)
+![这个超级黏牙的！](http://blog.mindfine.com/images%2FIMG_20140718_154409.jpg?imageView2/1/w/800/h/480/q/90)
+![冒菜，爽～～～可惜范同学好像吃不下哈哈](http://blog.mindfine.com/images%2FIMG_20140718_190846.jpg?imageView2/1/w/800/h/480/q/90)
+![菜市场，两兄弟哞、哞、哞不停的叫：我来了，宰我撒！](http://blog.mindfine.com/images%2FIMG_20140718_194119.jpg?imageView2/1/w/800/h/480/q/90)
 ![IMG_20140718_194817.jpg](http://blog.mindfine.com/images%2FIMG_20140718_194817.jpg?imageView2/1/w/800/h/480/q/90)
 ![IMG_20140719_072105.jpg](http://blog.mindfine.com/images%2FIMG_20140719_072105.jpg?imageView2/1/w/800/h/480/q/90)
 ![IMG_20140719_081218~2.jpg](http://blog.mindfine.com/images%2FIMG_20140719_081218~2.jpg?imageView2/1/w/800/h/480/q/90)
