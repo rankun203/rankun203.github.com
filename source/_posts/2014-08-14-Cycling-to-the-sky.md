@@ -589,7 +589,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 
 ![到处都是这样的石头，一种荒凉的感觉](http://blog.mindfine.com/images%2FIMG_20140719_153727.jpg?imageView2/1/w/800/h/480/q/90)
 ![被一刀切下来的垂直石壁，亮哥小心喲、](http://blog.mindfine.com/images%2FIMG_20140719_160026.jpg?imageView2/1/w/800/h/480/q/90)
-![公路内侧边缘](http://blog.mindfine.com/images%2FIMG_20140719_160100.jpg?imageView2/1/w/800/h/480/q/90)
+![天明路尽疑到顶~峰回路转又一坡……长路漫漫……](http://blog.mindfine.com/images%2FIMG_20140719_160100.jpg?imageView2/1/w/800/h/480/q/90)
 ![别太靠内侧吖](http://blog.mindfine.com/images%2FIMG_20140719_161859.jpg?imageView2/1/w/800/h/480/q/90)
 ![多么高调壮观的荒凉！！](http://blog.mindfine.com/images%2FIMG_20140719_163100.jpg?imageView2/1/w/800/h/480/q/90)
 
@@ -606,6 +606,8 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 藏民的和蔼之处、热情好客，他问我们要去哪儿，我们说去登巴村，他说还有好远噢
 
 夜行觉巴山
+
+星空真美
 
 放其他位置
 快到理塘那一段也遇到了很多藏民，就在“中国共产党万岁”山脚，大都骑着摩托车，有的载着妻儿，从我旁边过去的时候都会笑着跟我打招呼，“扎西德勒～”，我也会回敬，这样的交流不止一次，而是很多次。
@@ -624,13 +626,16 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![这下面是有人的！](http://blog.mindfine.com/images%2FIMG_20140720_130913.jpg?imageView2/1/w/800/h/480/q/90)
 ![不过前方不妙啊，有妖怪、、](http://blog.mindfine.com/images%2FIMG_20140720_132451.jpg?imageView2/1/w/800/h/480/q/90)
 ![越走越明显了，雨衣要准备了…](http://blog.mindfine.com/images%2FIMG_20140720_134525.jpg?imageView2/1/w/800/h/480/q/90)
-![下雨了，为了去照一组照片，把车子靠在桥边，被一辆大货车的气流冲下去了T_T，这起码得4米高啊…可怜车车了。想想ta带着驮包摔下去那一瞬间，还是挺伤心的](http://blog.mindfine.com/images%2FIMG_20140720_145055.jpg?imageView2/1/w/800/h/480/q/90)
-![就是为了来照这副画面](http://blog.mindfine.com/images%2FIMG_20140720_150935.jpg?imageView2/1/w/800/h/480/q/90)
+![我心爱的车车…摔下去了](http://blog.mindfine.com/images%2FIMG_20140720_145055.jpg?imageView2/1/w/800/h/480/q/90)
+
+下雨了，为了去照一组照片，把车子靠在桥边，被一辆大货车的气流冲下去了T_T，这起码得4米高啊…可怜车车了。想想ta带着驮包摔下去那一瞬间，挺伤心的
+
+![神奇的地方](http://blog.mindfine.com/images%2FIMG_20140720_150935.jpg?imageView2/1/w/800/h/480/q/90)
 ![东达山就在前方十多公里的地方，天还在下着雨，特别的冷](http://blog.mindfine.com/images%2FIMG_20140720_150938.jpg?imageView2/1/w/800/h/480/q/90)
 ![我正在听天空之城ref:播放天空之城的音乐的控件，一张全景图应该可以看完一首音乐](http://blog.mindfine.com/images%2FIMG_20140720_152123.jpg?imageView2/1/w/800/h/480/q/90)
 ![群山之巅](http://blog.mindfine.com/images%2FIMG_20140720_153157.jpg?imageView2/1/w/800/h/480/q/90)
 ![仍然在坚持骑的小伙子](http://blog.mindfine.com/images%2FIMG_20140720_153411.jpg?imageView2/1/w/800/h/480/q/90)
-![东达山山顶](http://blog.mindfine.com/images%2FIMG_20140720_164547.jpg?imageView2/1/w/800/h/480/q/90)
+![东达山山顶，今天就是爬这玩意儿来着:D注意最左边的路人甲](http://blog.mindfine.com/images%2FIMG_20140720_164547.jpg?imageView2/1/w/800/h/480/q/90)
 
 ####左贡
 
@@ -646,16 +651,25 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 去邦达咯，今天是一百多公里的丘陵起伏路
 
 ![我想说，这是个女生](http://blog.mindfine.com/images%2FIMG_20140721_110101.jpg?imageView2/1/w/800/h/480/q/90)
+
+路上好多女孩子，真厉害，有些队有一半都是女生。
+
 ![翠花儿、、](http://blog.mindfine.com/images%2FIMG_20140721_130913.jpg?imageView2/1/w/800/h/480/q/90)
 ![这边的土墙，跟我们家的墙还是有些类似的](http://blog.mindfine.com/images%2FIMG_20140721_132712.jpg?imageView2/1/w/800/h/480/q/90)
 ![不予置评！！！！](http://blog.mindfine.com/images%2FIMG_20140721_141831.jpg?imageView2/1/w/800/h/480/q/90)
+
+讲个故事，与图片骑行的小伙子没啥关系哈。张三有块地，有一天李四跑来说这块地以前是他家的，要跟张三一起用，张三开始不愿意，但确实好像以前李四家是在这儿生活过，后来几经周折跟李四达成一致让李四住进来，李四和他那一帮狗仔特别牛，打了几十年的架，张三跟他朋友们就是天天读读书养养牛。张三跟李四的关系实际上还是比较僵硬的，两个人说话都不一样，李四走哪儿都要让人帮忙翻译，李四看上了张三的财产想都霸占了，想把张三管起来，有一次张三考试不小心拿到了个高分，李四立马邀请张三来吃饭，还催了几次让张三确定个时间，到了那天张三准备去赴宴了，他朋友知道李四的为人怕李四把张三绑架了于是堵着不让张三去，张三说没事的你们放心，他朋友特别担心很不高兴，嚷嚷着叫李四滚出他们的地盘，李四逮着机会跟张三的朋友干起来了，张三的朋友不肯投降，李四跟狗仔们就捡大石头砸张三的家，他朋友瞬间扛不住了，就跟张三一起跑邻居家去躲风头去了，张三一走，李四立马把张三的地盘搞到手了，张三还有些留下来的朋友不干，非要抵抗，李四毫无疑问是很强势的，但强龙压不过地头蛇，张三的朋友就像打游击一样这儿打一下那儿打一下……至于张三，一走数十载，再也回不来，他的地盘已经几乎全部都是李四的了，李四开始教育张三留下来的那些朋友，让他们学自己的话，说张三是个大坏蛋，自己才是好人。张三一些年长的朋友还在老地方生活的天天都在盼，盼星星盼月亮，每天都在祈祷，希望有一天张三可以回来大家再一起喝酒吃肉，张三就是他们的神，张三就是他们的救世主……
+
 ![中午的饭菜，蛮丰盛的了，可Peter那个家伙还说我们吃的太差了，那啥、、貌似在成都也没能每次都吃到这样儿的。。](http://blog.mindfine.com/images%2FIMG_20140721_142744.jpg?imageView2/1/w/800/h/480/q/90)
 ![红牛！这一路过来道路两边好多红牛的罐子、、](http://blog.mindfine.com/images%2FIMG_20140721_144533.jpg?imageView2/1/w/800/h/480/q/90)
 ![美](http://blog.mindfine.com/images%2FIMG_20140721_145926.jpg?imageView2/1/w/800/h/480/q/90)
-![一马平川到邦达～](http://blog.mindfine.com/images%2FIMG_20140721_150309.jpg?imageView2/1/w/800/h/480/q/90)
+![一马平川去邦达～](http://blog.mindfine.com/images%2FIMG_20140721_150309.jpg?imageView2/1/w/800/h/480/q/90)
 ![蓝天白云，我想要的天空](http://blog.mindfine.com/images%2FIMG_20140721_151906.jpg?imageView2/1/w/800/h/480/q/90)
 ![风景如画，无法形容…](http://blog.mindfine.com/images%2FIMG_20140721_151911.jpg?imageView2/1/w/800/h/480/q/90)
 ![晒衣服，睡懒觉什么的哈哈](http://blog.mindfine.com/images%2FIMG_20140721_151947.jpg?imageView2/1/w/800/h/480/q/90)
+
+天蓝的都找不到对焦点了我x”，一屁股坐着真不错，不想走了，到邦达还有60公里耶…
+
 ![衣服全拿出来绑车上晒～～](http://blog.mindfine.com/images%2FIMG_20140721_153309.jpg?imageView2/1/w/800/h/480/q/90)
 ![这一样一样的要捡到好久去哦…](http://blog.mindfine.com/images%2FIMG_20140721_153712.jpg?imageView2/1/w/800/h/480/q/90)
 ![亮点在图的正中:D](http://blog.mindfine.com/images%2FIMG_20140721_153727.jpg?imageView2/1/w/800/h/480/q/90)
@@ -689,7 +703,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![范兄甚是欢喜](http://blog.mindfine.com/images%2FIMG_20140721_192158.jpg?imageView2/1/w/800/h/480/q/90)
 ![彩虹直通向了对面的石山](http://blog.mindfine.com/images%2FIMG_20140721_194825.jpg?imageView2/1/w/800/h/480/q/90)
 ![金灿灿的庄稼地，美不胜收](http://blog.mindfine.com/images%2FIMG_20140721_194834.jpg?imageView2/1/w/800/h/480/q/90)
-![我们计划，今天晚上拍星星](http://blog.mindfine.com/images%2FIMG_20140721_213219.jpg?imageView2/1/w/480/h/800/q/90)
+![我们计划，今天晚上拍星星，星星快出来呀星星快出来～～](http://blog.mindfine.com/images%2FIMG_20140721_213219.jpg?imageView2/1/w/480/h/800/q/90)
 ![吃饭啦](http://blog.mindfine.com/images%2FIMG_20140721_214028.jpg?imageView2/1/w/800/h/480/q/90)
 ![这汤之浓，一定很好喝](http://blog.mindfine.com/images%2FIMG_20140721_215528.jpg?imageView2/1/w/800/h/480/q/90)
 ![去业拉山～](http://blog.mindfine.com/images%2FIMG_20140722_130013.jpg?imageView2/1/w/800/h/480/q/90)
@@ -766,7 +780,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![别乱看哈，人家乱画的:D](http://blog.mindfine.com/images%2FIMG_20140723_172318.jpg?imageView2/1/w/800/h/480/q/90)
 ![开越野车出来旅行的也还是很多的](http://blog.mindfine.com/images%2FIMG_20140723_174131.jpg?imageView2/1/w/800/h/480/q/90)
 ![爱护车子，仔细的洗每一寸链条](http://blog.mindfine.com/images%2FIMG_20140723_195613.jpg?imageView2/1/w/800/h/480/q/90)
-![一块钱一个包子，一口都装不下T_T](http://blog.mindfine.com/images%2FIMG_20140724_082128.jpg?imageView2/1/w/800/h/480/q/90)
+![这是这么多天吃的最便宜的包子馒头了，小菜包，1块钱一个，之前都是10块钱8个来着。。](http://blog.mindfine.com/images%2FIMG_20140724_082128.jpg?imageView2/1/w/800/h/480/q/90)
 ![这蛋、、、水汪汪的e](http://blog.mindfine.com/images%2FIMG_20140724_082658.jpg?imageView2/1/w/800/h/480/q/90)
 ![又见这两父子，他们今天也要前往然乌～](http://blog.mindfine.com/images%2FIMG_20140724_083648.jpg?imageView2/1/w/800/h/480/q/90)
 ![藏区特供水:D](http://blog.mindfine.com/images%2FIMG_20140724_112159.jpg?imageView2/1/w/800/h/480/q/90)
