@@ -419,10 +419,10 @@ console.log(""+ "\n" +
 ![站起来看下:-)](http://blog.mindfine.com/images%2FIMG_20140716_113247.jpg?imageView2/1/w/800/h/480/q/90)
 ![这坡还挺陡的哈，又有骑友来了](http://blog.mindfine.com/images%2FIMG_20140716_113410.jpg?imageView2/1/w/800/h/480/q/90)
 ![如此美好ref](http://blog.mindfine.com/images%2FIMG_20140716_113619.jpg?imageView2/1/w/800/h/480/q/90)
+![继续前行](http://blog.mindfine.com/images%2FIMG_20140716_113808.jpg?imageView2/1/w/800/h/480/q/90)
 
 这绝对是我见过的最美的公路！美丽的高山草原，整洁的柏油路，蓝蓝的天，感谢 @林海星月 大哥和所有修这条路的朋友们，你们的艰辛让我们感受到了人生如此美好。This must be the best beautiful national road I've ever seen! Wonderful alpine steppe, clean asphalt road, blue sky. I would express the high respect to my friend @林海星月 and all the friends who build this road, your awesome work makes me feel such a wonderful life.
 
-![继续前行](http://blog.mindfine.com/images%2FIMG_20140716_113808.jpg?imageView2/1/w/800/h/480/q/90)
 ![起伏的高山草原](http://blog.mindfine.com/images%2FIMG_20140716_114743.jpg?imageView2/1/w/800/h/480/q/90)
 ![又一次刷新了我对“折多路”的认识-_-||](http://blog.mindfine.com/images%2FIMG_20140716_114752.jpg?imageView2/1/w/800/h/480/q/90)
 ![这仨姐弟刚刚从悬崖下爬上来](http://blog.mindfine.com/images%2FIMG_20140716_114948.jpg?imageView2/1/w/800/h/480/q/90)
