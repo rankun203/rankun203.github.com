@@ -419,6 +419,9 @@ console.log(""+ "\n" +
 ![站起来看下:-)](http://blog.mindfine.com/images%2FIMG_20140716_113247.jpg?imageView2/1/w/800/h/480/q/90)
 ![这坡还挺陡的哈，又有骑友来了](http://blog.mindfine.com/images%2FIMG_20140716_113410.jpg?imageView2/1/w/800/h/480/q/90)
 ![如此美好ref](http://blog.mindfine.com/images%2FIMG_20140716_113619.jpg?imageView2/1/w/800/h/480/q/90)
+
+这绝对是我见过的最美的公路！美丽的高山草原，整洁的柏油路，蓝蓝的天，感谢 @林海星月 大哥和所有修这条路的朋友们，你们的艰辛让我们感受到了人生如此美好。This must be the best beautiful national road I've ever seen! Wonderful alpine steppe, clean asphalt road, blue sky. I would express the high respect to my friend @林海星月 and all the friends who build this road, your awesome work makes me feel such a wonderful life.
+
 ![继续前行](http://blog.mindfine.com/images%2FIMG_20140716_113808.jpg?imageView2/1/w/800/h/480/q/90)
 ![起伏的高山草原](http://blog.mindfine.com/images%2FIMG_20140716_114743.jpg?imageView2/1/w/800/h/480/q/90)
 ![又一次刷新了我对“折多路”的认识-_-||](http://blog.mindfine.com/images%2FIMG_20140716_114752.jpg?imageView2/1/w/800/h/480/q/90)
@@ -811,17 +814,21 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![青春……拨云见日](http://blog.mindfine.com/images%2FIMG_20140725_152520.jpg?imageView2/1/w/800/h/480/q/90)
 ![这树被吹的、、](http://blog.mindfine.com/images%2FIMG_20140725_160534.jpg?imageView2/1/w/800/h/480/q/90)
 
-下午到了这片山区，就一直有很强的逆风，下午4点过了，还有好几十公里，又爆胎了……他们都在前面不知道哪儿，我都有点想搭车了。
+下午到了这片山区，就一直有很强的逆风，4点过了，还有好几十公里，又爆胎了……
 
-补胎的时候，放着音乐，跟亮哥通了个电话，他说了前面的路况。看着这颗负重沉沉年轻的树，吃两块饼干，决定了继续前进。
+他们都在前面不知道哪儿，我都有点想搭车了。
 
-![IMG_20140725_165248.jpg](http://blog.mindfine.com/images%2FIMG_20140725_165248.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140725_165920.jpg](http://blog.mindfine.com/images%2FIMG_20140725_165920.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140725_174212.jpg](http://blog.mindfine.com/images%2FIMG_20140725_174212.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140725_174947.jpg](http://blog.mindfine.com/images%2FIMG_20140725_174947.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140725_174951.jpg](http://blog.mindfine.com/images%2FIMG_20140725_174951.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140725_175007.jpg](http://blog.mindfine.com/images%2FIMG_20140725_175007.jpg?imageView2/1/w/800/h/480/q/90)
-![IMG_20140725_180846.jpg](http://blog.mindfine.com/images%2FIMG_20140725_180846.jpg?imageView2/1/w/800/h/480/q/90)
+补胎的时候，放着音乐，跟亮哥通了个电话，他说了前面的路况。看着这颗在狂风下负重沉沉的树，吃两块饼干，决定了继续前进。
+
+饼干好像没怎么消化、、
+
+![这是快到波密的节奏了哇，体育设施都有了](http://blog.mindfine.com/images%2FIMG_20140725_165248.jpg?imageView2/1/w/800/h/480/q/90)
+![不远处的山，被云雾缠绕着](http://blog.mindfine.com/images%2FIMG_20140725_165920.jpg?imageView2/1/w/800/h/480/q/90)
+![这小林子里骑着车，美极了](http://blog.mindfine.com/images%2FIMG_20140725_174212.jpg?imageView2/1/w/800/h/480/q/90)
+![藏语彩旗](http://blog.mindfine.com/images%2FIMG_20140725_174947.jpg?imageView2/1/w/800/h/480/q/90)
+![藏语](http://blog.mindfine.com/images%2FIMG_20140725_174951.jpg?imageView2/1/w/800/h/480/q/90)
+![彩旗飘飘，守护着这座桥，还有这河](http://blog.mindfine.com/images%2FIMG_20140725_175007.jpg?imageView2/1/w/800/h/480/q/90)
+![神山啊，保佑这片土地](http://blog.mindfine.com/images%2FIMG_20140725_180846.jpg?imageView2/1/w/800/h/480/q/90)
 ![IMG_20140725_180930.jpg](http://blog.mindfine.com/images%2FIMG_20140725_180930.jpg?imageView2/1/w/800/h/480/q/90)
 ![IMG_20140725_181002.jpg](http://blog.mindfine.com/images%2FIMG_20140725_181002.jpg?imageView2/1/w/800/h/480/q/90)
 ![IMG_20140725_181051.jpg](http://blog.mindfine.com/images%2FIMG_20140725_181051.jpg?imageView2/1/w/800/h/480/q/90)
