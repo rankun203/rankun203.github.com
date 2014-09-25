@@ -808,6 +808,8 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![然乌一家饭馆，旅行者的热情果然无处不在啊](http://blog.mindfine.com/images%2FIMG_20140724_210221.jpg?imageView2/1/w/800/h/480/q/90)
 ![衣物都弄出来吹一吹吧，虽然可能没什么效果，整个陀包都湿了，变重了好多-_-||](http://blog.mindfine.com/images%2FIMG_20140725_083946.jpg?imageView2/1/w/800/h/480/q/90)
 
+穿进一双湿的冰冷至极的袜子再穿进一双湿的冰冷至极的鞋……
+
 住处遇到一对儿，那位姐姐给了我一些拉肚子的药，吃了之后第二天好像真的好多了:D
 
 ![早上起来吃碗蛋炒饭什么的:-)美好一天即将开始～](http://blog.mindfine.com/images%2FIMG_20140725_091820.jpg?imageView2/1/w/800/h/480/q/90)
@@ -821,7 +823,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![小路通向山谷深处](http://blog.mindfine.com/images%2FIMG_20140725_124145.jpg?imageView2/1/w/800/h/480/q/90)
 ![泥石流](http://blog.mindfine.com/images%2FIMG_20140725_124836.jpg?imageView2/1/w/800/h/480/q/90)
 ![找到一家小店～老板来碗蛋炒饭！](http://blog.mindfine.com/images%2FIMG_20140725_132641.jpg?imageView2/1/w/800/h/480/q/90)
-![饭馆，有小吃喔](http://blog.mindfine.com/images%2FIMG_20140725_132931.jpg?imageView2/1/w/800/h/480/q/90)
+![在这个人烟稀少的偏僻小乡镇里找到一家很有感觉的小店](http://blog.mindfine.com/images%2FIMG_20140725_132931.jpg?imageView2/1/w/800/h/480/q/90)
 ![不管哪儿的狗狗都是挺乖的哈](http://blog.mindfine.com/images%2FIMG_20140725_134403.jpg?imageView2/1/w/800/h/480/q/90)
 ![继续前进，向着深山出发](http://blog.mindfine.com/images%2FIMG_20140725_135723.jpg?imageView2/1/w/800/h/480/q/90)
 ![远处的雪山以及天上的白云，山间的雾，一切的一切](http://blog.mindfine.com/images%2FIMG_20140725_145943.jpg?imageView2/1/w/800/h/480/q/90)
@@ -843,6 +845,9 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![藏语](http://blog.mindfine.com/images%2FIMG_20140725_174951.jpg?imageView2/1/w/800/h/480/q/90)
 ![彩旗飘飘，守护着这座桥，还有这河](http://blog.mindfine.com/images%2FIMG_20140725_175007.jpg?imageView2/1/w/800/h/480/q/90)
 ![神山啊，保佑这片土地](http://blog.mindfine.com/images%2FIMG_20140725_180846.jpg?imageView2/1/w/800/h/480/q/90)
+
+下午路过国道318的3996公里处的时候，数公里的路面上出现了大量的虫子（好像就是毛毛虫），路边的树都被虫子吃枯了，旁边的越野车飞驰过去压死虫子发出密集的噼里啪啦的声音，被碾死的虫子密密麻麻的摆在路上，很多路过的人第一反应就是很害怕，要踩，前面甚至堵车了，又看到很多当地人都在用小桶和树枝做的小夹子捡虫子，问了一个人，他说这都是虫啊，以往没这么多的，今年多的都跑路上来了，另一个骑车的小伙子说怎么不把他们弄死，有个藏族僧人仍然在夹，另一个藏人说“他们就是虫嘛，专门吃那个树（青冈树）的，你看把树全部都吃死了，但是他们也是生命嘛，弄死了多不好”……让着那些虫又走了一段，又跟一个藏人说起，他说“这是在救他们的命！都被这些车子压死了！”。阿弥陀佛，这么仁慈的人们，愿神山保佑他们。
+
 ![IMG_20140725_180930.jpg](http://blog.mindfine.com/images%2FIMG_20140725_180930.jpg?imageView2/1/w/800/h/480/q/90)
 ![IMG_20140725_181002.jpg](http://blog.mindfine.com/images%2FIMG_20140725_181002.jpg?imageView2/1/w/800/h/480/q/90)
 ![IMG_20140725_181051.jpg](http://blog.mindfine.com/images%2FIMG_20140725_181051.jpg?imageView2/1/w/800/h/480/q/90)
