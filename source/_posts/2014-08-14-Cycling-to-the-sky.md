@@ -612,7 +612,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 阿康已经决定直接坐大巴去拉萨了。
 
 ![东达山上的地貌](http://blog.mindfine.com/images%2FIMG_20140720_123647.jpg?imageView2/1/w/800/h/480/q/90)
-![弄个房车这样到处跑还是不错不错的哈](http://blog.mindfine.com/images%2FIMG_20140720_124539.jpg?imageView2/1/w/800/h/480/q/90)
+![有辆房车到处旅行还是不错不错的哈](http://blog.mindfine.com/images%2FIMG_20140720_124539.jpg?imageView2/1/w/800/h/480/q/90)
 ![亮哥今天肚子不舒服，咱等等](http://blog.mindfine.com/images%2FIMG_20140720_124920.jpg?imageView2/1/w/800/h/480/q/90)
 ![靠！前面又有一朵大云压着整条山脉，前途艰险哇！](http://blog.mindfine.com/images%2FIMG_20140720_125543.jpg?imageView2/1/w/800/h/480/q/90)
 ![伴着小溪的道路](http://blog.mindfine.com/images%2FIMG_20140720_125831.jpg?imageView2/1/w/800/h/480/q/90)
@@ -679,6 +679,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![圈起来的养殖场](http://blog.mindfine.com/images%2FIMG_20140721_175756.jpg?imageView2/1/w/800/h/480/q/90)
 ![大云压在了我们的头上，一切都清楚了](http://blog.mindfine.com/images%2FIMG_20140721_182652.jpg?imageView2/1/w/800/h/480/q/90)
 ![下雨了！ref范兄那张下雨的照片](http://blog.mindfine.com/images%2FIMG_20140721_190400.jpg?imageView2/1/w/800/h/480/q/90)
+![我刚刚说下雨了……](http://blog.mindfine.com/images%2F65safd465sdfa4.jpeg?imageView2/1/w/800/h/480/q/90)
 ![雨后彩虹～](http://blog.mindfine.com/images%2FIMG_20140721_190429.jpg?imageView2/1/w/800/h/480/q/90)
 ![两道彩虹噢](http://blog.mindfine.com/images%2FIMG_20140721_191431.jpg?imageView2/1/w/800/h/480/q/90)
 ![双虹](http://blog.mindfine.com/images%2FIMG_20140721_192105.jpg?imageView2/1/w/800/h/480/q/90)
@@ -810,7 +811,9 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![青春……拨云见日](http://blog.mindfine.com/images%2FIMG_20140725_152520.jpg?imageView2/1/w/800/h/480/q/90)
 ![这树被吹的、、](http://blog.mindfine.com/images%2FIMG_20140725_160534.jpg?imageView2/1/w/800/h/480/q/90)
 
-下午到了这片山区，就一直有很强的逆风，下午4点过了，还有好几十公里，又爆胎了……他们都在前面不知道哪儿，我都有点想搭车了:(补胎的时候，就放着音乐，看着这颗负重沉沉年轻的树，吃两块饼干，决定了继续前进。
+下午到了这片山区，就一直有很强的逆风，下午4点过了，还有好几十公里，又爆胎了……他们都在前面不知道哪儿，我都有点想搭车了。
+
+补胎的时候，放着音乐，跟亮哥通了个电话，他说了前面的路况。看着这颗负重沉沉年轻的树，吃两块饼干，决定了继续前进。
 
 ![IMG_20140725_165248.jpg](http://blog.mindfine.com/images%2FIMG_20140725_165248.jpg?imageView2/1/w/800/h/480/q/90)
 ![IMG_20140725_165920.jpg](http://blog.mindfine.com/images%2FIMG_20140725_165920.jpg?imageView2/1/w/800/h/480/q/90)
