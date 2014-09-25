@@ -679,7 +679,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![圈起来的养殖场](http://blog.mindfine.com/images%2FIMG_20140721_175756.jpg?imageView2/1/w/800/h/480/q/90)
 ![大云压在了我们的头上，一切都清楚了](http://blog.mindfine.com/images%2FIMG_20140721_182652.jpg?imageView2/1/w/800/h/480/q/90)
 ![下雨了！](http://blog.mindfine.com/images%2FIMG_20140721_190400.jpg?imageView2/1/w/800/h/480/q/90)
-![我刚刚说下雨了……](http://blog.mindfine.com/images%2F65safd465sdfa4.jpeg?imageView2/1/w/800/h/480/q/90)
+![我刚刚说下雨了……现在是外面下大雨，里面也在下大雨-_-||雨衣完全不起作用](http://blog.mindfine.com/images%2F65safd465sdfa4.jpeg?imageView2/1/w/800/h/480/q/90)
 ![雨后彩虹～](http://blog.mindfine.com/images%2FIMG_20140721_190429.jpg?imageView2/1/w/800/h/480/q/90)
 ![两道彩虹噢](http://blog.mindfine.com/images%2FIMG_20140721_191431.jpg?imageView2/1/w/800/h/480/q/90)
 ![双虹](http://blog.mindfine.com/images%2FIMG_20140721_192105.jpg?imageView2/1/w/800/h/480/q/90)
