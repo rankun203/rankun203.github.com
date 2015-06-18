@@ -1,6 +1,10 @@
 title: blockchain
 date: 2015-06-18 18:52:09
 tags:
+- Bitcoin
+- BlockChain
+- Coinbase
+- php
 ---
 
 ## Use blockchain bitcoin service to transfer bitcoins
@@ -21,6 +25,8 @@ https://blockchain.info/merchant/$guid/payment
 Request tips:
 
 > The My Wallet API provides a simple interface Merchants can use interact with their wallet. Blockchain.info will decrypt the wallet on our server manipulate it as necessary and re-save. HTTP GET and POST are supported. However, if a POST request is sent without "Content-Type: application/x-www-form-urlencoded" header, some endpoints may not work correctly.
+
+<!-- more -->
 
 ### /payment
 
@@ -86,6 +92,8 @@ Of course, got an 'error':
 
 That's it!
 
+### Transfer real bitcoins
+
 Next, charge a few bitcoins to my wallet, then transfer 100฿ to another wallet.
 
 API call finished, returns:
@@ -96,6 +104,8 @@ API call finished, returns:
   message: "Sent To Multiple Recipients"
 }
 ```
+
+### Transfer process seems to be failed
 
 But the target wallet **didn't** get the money.
 
@@ -109,6 +119,8 @@ For the exactly meaning of **confirm**, I checked the transaction I transfered f
 
 After over 20 minutes, it still not confirmed.
 
+### Transfer some bitcoins to another account again
+
 In the meantime, I did it again, to a different wallet(at Coinbase, 200 bit):
 
 ```
@@ -118,3 +130,13 @@ In the meantime, I did it again, to a different wallet(at Coinbase, 200 bit):
 ```
 
 YES, That's because my previous transaction was still unconfirmed.
+
+### Bitcoins transfer was succeeded a hour ago
+
+Finally, after a couple of hours, I noticed the message there: *+68 minutes to confirm*, That means the transfer finally succeeded.
+
+```
+06/18/2015 19:17	0.000002	 	1E6Ki2WdWzDKng35hohQmmuTG1yfnMd3QF
+```
+
+**Too slow to me**, I blamed this on the influence of LocalBitcoins™, too small to be noticed 😂
