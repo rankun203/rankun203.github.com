@@ -1,11 +1,16 @@
-title: blockchain
+---
+title: Bitcoin playground
 date: 2015-06-18 18:52:09
+categories:
+- programming
 tags:
 - Bitcoin
 - BlockChain
 - Coinbase
 - php
 ---
+
+## 使用 Blockchain 的服务进行比特币交易
 
 ## Use blockchain bitcoin service to transfer bitcoins
 
@@ -131,6 +136,37 @@ In the meantime, I did it again, to a different wallet(at Coinbase, 200 bit):
 
 YES, That's because my previous transaction was still unconfirmed.
 
+As a note, php script here:
+
+```php
+<?php
+/**
+ * DEBUG: XDEBUG_SESSION_START=docker_php
+ */
+
+$guid = "guid-identifier";
+$firstpassword = "password";
+$secondpassword = "second_password";
+$amounta = "200";
+$to = "1NV6sH3hS2u5Fnbey5Vh32ho3P3x23CXM2";
+$recipients =
+    urlencode('{
+                  "' . $to . '": ' . $amounta . '
+               }');
+
+$json_url = "https://blockchain.info/merchant/$guid/sendmany?password=$firstpassword&second_password=$secondpassword&recipients=$recipients";
+
+$json_data = file_get_contents($json_url);
+
+$json_feed = json_decode($json_data);
+
+$message = $json_feed->message;
+$error = $json_feed->error;
+$txid = $json_feed->tx_hash;
+
+echo json_encode($json_feed);
+```
+
 ### Bitcoins transfer was succeeded a hour ago
 
 Finally, after a couple of hours, I noticed the message there: *+68 minutes to confirm*, That means the transfer finally succeeded.
@@ -139,4 +175,4 @@ Finally, after a couple of hours, I noticed the message there: *+68 minutes to c
 06/18/2015 19:17	0.000002	 	1E6Ki2WdWzDKng35hohQmmuTG1yfnMd3QF
 ```
 
-**Too slow to me**, I blamed this on the influence of LocalBitcoins™, too small to be noticed 😂
+**Too slow to me**, I blamed this on the influence of LocalBitcoins™, too small to be noticed ;p
