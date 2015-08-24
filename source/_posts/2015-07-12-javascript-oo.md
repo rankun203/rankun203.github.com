@@ -1,4 +1,4 @@
-title: javascript-oo
+title: JavaScript OO
 date: 2015-07-12 12:09:03
 categories:
 - programming
