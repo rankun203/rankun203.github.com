@@ -1,0 +1,740 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tomcat",
+				"tomcatName"
+			],
+			[
+				"DB",
+				"DB_URL"
+			],
+			[
+				"nom0ve",
+				"nom0ve_dbp"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"layout_margin",
+				"layout_marginRight"
+			],
+			[
+				"layout",
+				"layout_width"
+			],
+			[
+				"layout_",
+				"layout_width"
+			],
+			[
+				"el",
+				"elif	Else if"
+			],
+			[
+				"exp",
+				"expected"
+			],
+			[
+				"Emit",
+				"emitLn"
+			],
+			[
+				"emit",
+				"emitLn"
+			],
+			[
+				"is",
+				"isDigit"
+			],
+			[
+				"get",
+				"getChar"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 228.0,
+		"last_filter": "ssjava",
+		"selected_items":
+		[
+			[
+				"ssjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"ppi",
+				"Package Control: Install Package"
+			],
+			[
+				"ssyaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"cc",
+				"Coffee: Compile File"
+			],
+			[
+				"ssco",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"ut",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"conve",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 289.0,
+		"history":
+		[
+			"def a 50",
+			"def a=50",
+			"print(\"OK...\")",
+			"print(\"OK\")",
+			"print(\"ahah\")",
+			"printf(\"ahah\")",
+			"python",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rankun203/git/rankun203.github.com/source/_posts"
+	],
+	"file_history":
+	[
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-08-25-javascript-no-delete.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-08-25-mongoose-notes.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-08-24-Note-20150824.md",
+		"/Applications/IntelliJ IDEA 14.app/Contents/Info.plist",
+		"/Users/rankun203/Downloads/f (2).txt",
+		"/Users/rankun203/Downloads/f (1).txt",
+		"/Users/rankun203/Downloads/f.txt",
+		"/Users/rankun203/Downloads/university-domains-list-master/world_universities_and_domains.json",
+		"/Users/rankun203/Downloads/younion2015-08-07-22-00-00-0001",
+		"/Users/rankun203/Downloads/younion2015-08-08-08-00-00-0001",
+		"/Users/rankun203/git/nom0ve/team/website/design/website.sketch",
+		"/Users/rankun203/.ssh/id_rsa.pub",
+		"/Users/rankun203/git/nom0ve/PocketCampus/docker/campus-server-docker-tomcat/Dockerfile",
+		"/Users/rankun203/git/study/blog/app.js",
+		"/Users/rankun203/Downloads/cfed63bf33634fe38514657f8f6f0a74_pages.json",
+		"/Users/rankun203/Downloads/1.sql",
+		"/Users/rankun203/git/nom0ve/outsourcing/SyncBeat/backup-6.18.2015_21-25-17_valvaldezgroup/mysql/valvalde_syncbeat.sql",
+		"/Users/rankun203/git/nom0ve/outsourcing/SyncBeat/backup-6.18.2015_21-25-17_valvaldezgroup/mysql/roundcube.sql",
+		"/Users/rankun203/git/nom0ve/outsourcing/SyncBeat/backup-6.18.2015_21-25-17_valvaldezgroup/mysql/valvalde_payment.sql",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-07-12-javascript-oo.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-06-18-rankun-fonts.md",
+		"/留学生社交调查",
+		"/Users/rankun203/Downloads/simple_bank.sql",
+		"/Users/rankun203/Downloads/xabber-android/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/rankun203/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/Wechat/1.2/b4462eb584553e5ae07bd633a7023c74/Message/MessageTemp/c8b70613cfc57e45096fe56cf9f010c7/OpenData/2.txt",
+		"/Users/rankun203/git/test/todoAPIjs/views/index.ejs",
+		"/Users/rankun203/git/nom0ve/outsourcing/SyncBeat/backup-6.18.2015_21-25-17_valvaldezgroup/homedir/public_html/sync.cr/Webservice/User.php",
+		"/Users/rankun203/Downloads/backup-6.18.2015_21-25-17_valvaldezgroup/mysql/valvalde_syncbeat.sql",
+		"/Users/rankun203/git/nom0ve/PocketCampus/grant-cors/package.json",
+		"/Users/rankun203/git/nom0ve/outsourcing/SyncBeat/sync.cr/doc/sql/search_occurence/search_occurence.txt",
+		"/Users/rankun203/Desktop/appWeb/index.html",
+		"/Users/rankun203/git/ModernWebStudy/ps/PS作业.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-06-18-blockchain.md",
+		"/Users/rankun203/Desktop/params.txt",
+		"/Users/rankun203/Desktop/untitled.txt",
+		"/Users/rankun203/git/nom0ve/PocketCampus/docker/campus-server-docker-tomcat/gradle_deamon.sh",
+		"/Users/rankun203/Downloads/archetype-catalog.xml",
+		"/Users/rankun203/Desktop/queryschool.json",
+		"/Users/rankun203/git/nom0ve/PocketCampus/docker/mysql/build.sh",
+		"/Users/rankun203/git/nom0ve/PocketCampus/docker/server-sub-docker/build.sh",
+		"/Users/rankun203/git/nom0ve/PocketCampus/docker/mysql/Dockerfile",
+		"/Users/rankun203/git/nom0ve/PocketCampus/docker/mysql/appdb.sql",
+		"/Users/rankun203/git/nom0ve/PocketCampus/docker/campus-server-docker-nginx/sites-available/default",
+		"/Users/rankun203/git/nom0ve/PocketCampus/grant-cors/app/clientBack/js/app.js",
+		"/Users/rankun203/Desktop/users.csv",
+		"/Users/rankun203/git/nom0ve/PocketCampus/docker/campus-server-docker-nginx/build.sh",
+		"/Users/rankun203/git/nom0ve/PocketCampus/server-sub-docker/Dockerfile",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-tomcat/build.sh",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-tomcat/Dockerfile",
+		"/Users/rankun203/Downloads/MybatisInterceptor.java",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/sites-available/default",
+		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server copy/src/main/java/com/nom0ve/apiservice/data/model/modelEx/ImageWithTag.java",
+		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server copy/src/main/java/com/nom0ve/apiservice/service/file/AliFileService.java",
+		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server copy/src/main/java/com/nom0ve/apiservice/data/model/VSmailInboxDto.java",
+		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server copy/src/main/java/com/nom0ve/apiservice/service/dynamic/TweetService.java",
+		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server/doc/touchat-api/raml/touchat-api.raml",
+		"/Users/rankun203/Downloads/alipay_record_20150525_0024_1.csv",
+		"/Users/rankun203/Downloads/alipay_record_20150525_0024.txt",
+		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server/big/sql/appdb_test.sql",
+		"/Users/rankun203/Downloads/tol/TOI_service/WebRoot/newuser.jsp",
+		"/Users/rankun203/Downloads/chinalnglat.sql",
+		"/Users/rankun203/Desktop/yamin/Program/ThangkaTags.java",
+		"/Users/rankun203/Downloads/tol-1/sql/ImMenu_table.sql",
+		"/Users/rankun203/Downloads/index.php",
+		"/Users/rankun203/Downloads/queryschool.json",
+		"/Users/rankun203/Downloads/schk66/index.htm",
+		"/Users/rankun203/Desktop/appdb_2015-05-14.sql",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/Dockerfile",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/partial/corporation/js/cor-transfer.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/partial/corporation/js/app-corporation.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/partial/email/js/app-email.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/js/appStart.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/js/common.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/js/app.js",
+		"/Users/rankun203/Downloads/Gruntfile.js.Rename",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/partial/corporation/js/cor-edit.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/partial/corporation/js/cor-main.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/partial/email/js/email-inbox.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/partial/email/js/email-outbox.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/partial/email/js/email-write.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/partial/user/js/user-all.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/partial/user/js/user-editor.js",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/app/clientBack/headPage/partial/user/js/user-exam.js",
+		"/校园信息化平台服务端需求分析",
+		"/Users/rankun203/Downloads/服务器.txt",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/build.sh",
+		"/Users/rankun203/Desktop/官网/mail.php",
+		"/Users/rankun203/Desktop/recruitment/db/db.sql",
+		"/Users/rankun203/Downloads/OmegaLog_1430488142329.txt",
+		"/Users/rankun203/git/nom0ve/PocketCampus/server-sub-docker/build.sh",
+		"/Users/rankun203/git/nom0ve/PocketCampus/server-sub-docker/setenv.sh",
+		"/Users/rankun203/Downloads/SpringSecurityUserDetailsService/src/main/resources/springSecurity.xml",
+		"/Users/rankun203/git/nom0ve/PocketCampus/server-sub-docker/.gitignore",
+		"/Users/rankun203/Desktop/untitled.html",
+		"/Users/rankun203/git/ModernWebStudy/java/0419/MyMath.java",
+		"/Users/rankun203/Desktop/yamin/Program/TangKa/src/com/yamin/activity/DesignActivity.java",
+		"/Users/rankun203/Desktop/yamin/Program/TangKa/AndroidManifest.xml",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/nginx/gzip.conf",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/conf.d/gzip.conf",
+		"/Users/rankun203/git/nom0ve/PocketCampus/server-sub-docker/startup.sh",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/apprunner",
+		"/Users/rankun203/git/dotfiles/extra/scripts/cline",
+		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server/src/main/resources/applicationContext.xml",
+		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server/src/main/resources/mybatis-config.xml",
+		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server/src/main/webapp/WEB-INF/spring-servlet.xml",
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-tomcat/startup.sh",
+		"/Users/rankun203/Desktop/allunivlist.json",
+		"/Users/rankun203/Desktop/allunivlist.js",
+		"/Users/rankun203/Downloads/export.txt",
+		"/Users/rankun203/Desktop/crawler/frontier/00000000.jdb",
+		"/Users/rankun203/Desktop/aa.html",
+		"/Users/rankun203/Desktop/aa.txt",
+		"/Users/rankun203/Desktop/ss.txt",
+		"/Users/rankun203/Downloads/9999.json",
+		"/Users/rankun203/Downloads/国际程序设计大赛作品欣赏/★先看说明★.txt",
+		"/Applications/android-sdk-macosx/sources/android-21/com/android/ex/editstyledtext/EditStyledText.java",
+		"/Users/rankun203/Downloads/aliyun_java_sdk_20150115/sources/versioninfo.properties",
+		"/Users/rankun203/Downloads/aliyun_java_sdk_20150115/Readme.txt",
+		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server/doc/sql/Draft_2015_03_17.sql",
+		"/Users/rankun203/Downloads/id_rsa.pub",
+		"/tmp/subl stdin qPUv3f.txt",
+		"/Users/rankun203/Downloads/TangKa/res/layout/activity_design.xml",
+		"/Users/rankun203/Downloads/PapersMac_qqtn/安装使用说明.txt",
+		"/Users/rankun203/Downloads/TangKa/src/com/yamin/activity/DesignActivity.java",
+		"/Users/rankun203/Downloads/迅雷账号 (1).txt",
+		"/Users/rankun203/Downloads/Gamersky-1121-nfs14-by/说明.txt",
+		"/Users/rankun203/Downloads/artice_rankun203_2015-2-27-16-41-37.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			"",
+			"set",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Chatroom",
+			"avatar",
+			"images",
+			"staring",
+			"\\}\\n",
+			"}",
+			"VM288:6 ",
+			"t170neva",
+			"rankun203",
+			"cuit",
+			" ",
+			"database",
+			"	",
+			"								",
+			"	",
+			"\\s+'",
+			"=\\W+",
+			"/.*",
+			">",
+			"<",
+			",",
+			"'",
+			"app.tou",
+			"`userlabel`",
+			"`usergroup`",
+			"`topiccomment`",
+			"`sys_user`",
+			"`sys_at`",
+			"at",
+			"`ss_secondhand`",
+			"`ss_parttimejob`",
+			"`service_lost_item`",
+			"`ss_lostitem`",
+			"`province`",
+			"`notification_user`",
+			"`notification`",
+			"`label_has_user`",
+			"`image_tag`",
+			"`grouptopic`",
+			"`groupmembers`",
+			"`friends`",
+			"dynamic_with_extra",
+			"dynamic_like",
+			"dynamic_id",
+			"`dynamic_at`",
+			"`dynamic`",
+			"`comment`",
+			"uri",
+			"creator",
+			"post_time",
+			"remarkname",
+			"userremark",
+			"dissolve_mark",
+			"ClassGroupnumber",
+			"Grouptype",
+			"GroupFace",
+			"Description",
+			"Creator",
+			"Groupname",
+			"creationIp",
+			"lastAccessTime",
+			"file_key",
+			"firstYear",
+			"majorid",
+			"fileKey",
+			"classNum",
+			"SchoolServersid",
+			"generatedTime",
+			"deviceToken",
+			"installationid",
+			"devicetype",
+			"creatorid",
+			"tocomment",
+			"enabled",
+			"GroupCount",
+			"IsMake",
+			"Relationuid",
+			"Privacy",
+			"Cityid",
+			"Expert",
+			"Academy",
+			"Accounttype",
+			"Hobby",
+			"Sign",
+			"Sex",
+			"UserClass",
+			"grade_id",
+			"Grade",
+			"Major",
+			"Avatar",
+			"Nickname",
+			"PassWd",
+			"Phone",
+			"ClassB",
+			"ClassC",
+			"ClassA",
+			"Leveltype",
+			"Uid",
+			"Atid",
+			"Type",
+			"workingPlace",
+			"workingTime",
+			"availableTime",
+			"companyname",
+			"businesstitle",
+			"found",
+			"lostTime",
+			"toUser",
+			"readTime",
+			"updatedTime",
+			"delete_markTime",
+			"deleted",
+			"sentTime",
+			"fromGroup",
+			"fromUser",
+			"IsRead",
+			"IsGet",
+			"Receiveid",
+			"noticeid",
+			"CURRENT_create_time",
+			"CURRENT_TIMESTAMP\nCURRENT_create_time",
+			"Despise",
+			"imageUuid",
+			"majorAbbr",
+			"majorname",
+			"academyid",
+			"short_name",
+			"Shortname"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"DB",
+			"\\},\\n",
+			"",
+			"\\nt170neva",
+			"\\nrankun203",
+			"=",
+			" ",
+			"",
+			"			",
+			"",
+			"		",
+			"								",
+			"				",
+			"",
+			"			",
+			"'",
+			"='",
+			"                              ",
+			"              ",
+			"",
+			"`user_label`",
+			"`group`",
+			"`topic_comment`",
+			"`user`",
+			"`user_at`",
+			"`school_service_second_hand`",
+			"`school_service_parttime_job`",
+			"`school_service_lost_item`",
+			"`service_lost_item`",
+			"`geo_province`",
+			"`notice_user`",
+			"`notice`",
+			"`user_to_label`",
+			"`file_image_tag`",
+			"`group_topic`",
+			"`group_member`",
+			"`relationship`",
+			"tweet_with_extra",
+			"tweet_like",
+			"tweet_id",
+			"`tweet_at`",
+			"`tweet`",
+			"`tweet_comment`",
+			"image_fid",
+			"create_uid",
+			"create_time",
+			"label_name",
+			"userlabel",
+			"deleted_mark",
+			"class_group_number",
+			"group_type",
+			"group_avatar",
+			"description",
+			"create_uid",
+			"group_name",
+			"source_ip",
+			"last_access_time",
+			"attach_fid",
+			"first_year",
+			"major_id",
+			"file_key",
+			"class_number",
+			"school_service_id",
+			"generate_time",
+			"device_token",
+			"installation_id",
+			"device_type",
+			"create_uid",
+			"to_comment",
+			"delete_mark",
+			"group_count",
+			"is_make",
+			"relation_uid",
+			"privacy",
+			"city_id",
+			"expert",
+			"academy",
+			"account_type",
+			"hobby",
+			"sign",
+			"sex",
+			"user_class",
+			"grade",
+			"grade_id",
+			"major_id",
+			"avatar_fid",
+			"nickname",
+			"password",
+			"phone",
+			"class_b",
+			"class_c",
+			"class_a",
+			"level_type",
+			"uid",
+			"at_id",
+			"type",
+			"working_place",
+			"working_time",
+			"available_time",
+			"company_name",
+			"business_title",
+			"find_mark",
+			"lost_time",
+			"to_uid",
+			"read_time",
+			"update_time",
+			"delete_time",
+			"delete_mark",
+			"send_time",
+			"from_gid",
+			"from_uid",
+			"is_read",
+			"is_get",
+			"receive_id",
+			"notice_id",
+			"CURRENT_TIMESTAMP",
+			"despise",
+			"image_fid",
+			"major_abbr",
+			"major_name",
+			"academy_id",
+			"name_short",
+			"short_name",
+			"school_id",
+			"auth_enabled",
+			"comment_id",
+			"user_password",
+			"user_number"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "posts.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tweetservi",
+				"src/main/java/com/nom0ve/apiservice/service/dynamic/TweetService.java"
+			],
+			[
+				"vsmailinboxd",
+				"src/main/java/com/nom0ve/apiservice/data/model/VSmailInboxDto.java"
+			],
+			[
+				"alifile",
+				"src/main/java/com/nom0ve/apiservice/service/file/AliFileService.java"
+			],
+			[
+				"imagewith",
+				"src/main/java/com/nom0ve/apiservice/data/model/modelEx/ImageWithTag.java"
+			],
+			[
+				"crime",
+				"src/main/java/org/rankun/test/crimeintent/Crime.java"
+			],
+			[
+				"string",
+				"src/main/res/values/strings.xml"
+			],
+			[
+				"frag",
+				"src/main/res/layout/fragment_crime.xml"
+			],
+			[
+				"fragme",
+				"src/main/res/layout/fragment_crime.xml"
+			],
+			[
+				"activity",
+				"src/main/res/layout/activity_crime.xml"
+			],
+			[
+				"authplu",
+				"mediawiki/includes/AuthPlugin.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 719.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
