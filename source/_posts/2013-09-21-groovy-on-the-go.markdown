@@ -4,8 +4,7 @@ title: "Groovy 学习历程"
 date: 2013-09-21 00:25
 comments: true
 categories:
-- Programming
-- Groovy
+- groovy
 tags:
 - Java
 - Groovy

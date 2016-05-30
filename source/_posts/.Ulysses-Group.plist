@@ -51,6 +51,18 @@
 		<array>
 			<string>2015-07-12-javascript-oo.md</string>
 		</array>
+		<array>
+			<string>2015-08-24-Note-20150824.md</string>
+		</array>
+		<array>
+			<string>2015-08-25-javascript-no-delete.md</string>
+		</array>
+		<array>
+			<string>2015-08-25-mongoose-notes.md</string>
+		</array>
+		<array>
+			<string>2015-09-05-nodejs-tips.md</string>
+		</array>
 	</array>
 	<key>userIconName</key>
 	<string>Podcasts</string>

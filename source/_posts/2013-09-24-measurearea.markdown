@@ -4,8 +4,7 @@ title: "测量面积的工具"
 date: 2013-09-24 08:41
 comments: true
 categories:
-- Programming
-- Ideas
+- ideas
 tags:
 - Android
 - Sensors

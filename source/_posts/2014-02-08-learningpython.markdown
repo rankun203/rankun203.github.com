@@ -4,8 +4,7 @@ title: "Python Learning on"
 date: 2014-02-08 07:40
 comments: true
 categories:
-- Programming
-- Python
+- explorer
 tags:
 - Python
 - Learning Python

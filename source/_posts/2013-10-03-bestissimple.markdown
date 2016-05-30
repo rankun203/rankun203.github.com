@@ -4,8 +4,7 @@ title: "大道至简，亦至繁"
 date: 2013-10-03 23:49
 comments: true
 categories:
-- Programming
-- Linux
+- linux
 tags:
 - Android
 - Learning Android

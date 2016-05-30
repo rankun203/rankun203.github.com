@@ -83,10 +83,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 228.0,
-		"last_filter": "ssjava",
+		"height": 392.0,
+		"last_filter": "ppi",
 		"selected_items":
 		[
+			[
+				"ppi",
+				"Package Control: Install Package"
+			],
 			[
 				"ssjava",
 				"Set Syntax: JavaScript"
@@ -98,10 +102,6 @@
 			[
 				"ssjson",
 				"Set Syntax: JSON"
-			],
-			[
-				"ppi",
-				"Package Control: Install Package"
 			],
 			[
 				"ssyaml",
@@ -148,7 +148,7 @@
 				"Set Syntax: C"
 			]
 		],
-		"width": 457.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -180,9 +180,39 @@
 	],
 	"file_history":
 	[
-		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-08-25-javascript-no-delete.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2016-03-28-ultimate-docker-on-osx-debug-php-application.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2016-03-28-ultimate-docker-on-osx-mapping-docker-files-to-local.md",
+		"/Users/rankun203/git/nom0ve/outsourcing/Nanhai/projects/nanhai-wp-docker/docker-compose.yml",
+		"/Users/rankun203/.ssh/id_rsa.pub",
+		"/Users/rankun203/Downloads/lin.md",
+		"/Users/rankun203/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2016-03-06-docker-with-wordpress.md",
+		"/Users/rankun203/Downloads/youdar2.sql",
+		"/Users/rankun203/Downloads/pantheon.aliases.drushrc.php",
+		"/Users/rankun203/Desktop/youdar.net.xml",
+		"/private/var/folders/2l/pmtsr0fd247dcr9st__wb88r0000gn/T/fz3temp-1/backindex.php",
+		"/Users/rankun203/Desktop/index.php",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2016-01-15-webpage-screenshot.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-09-05-nodejs-tips.md",
+		"/Users/rankun203/Desktop/test.svg",
 		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-08-25-mongoose-notes.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-08-25-javascript-no-delete.md",
 		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-08-24-Note-20150824.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-07-12-javascript-oo.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-06-18-rankun-fonts.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-06-18-blockchain.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2014-08-24-ColnectFindingMarketingGuyInChina.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2014-08-14-Cycling-to-the-sky.md",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2014-04-26-kicking-the-ffmpeg.markdown",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2014-02-08-rocking-rasperry-pi.markdown",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2014-02-08-learningpython.markdown",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2013-12-15-transparentinternet.markdown",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2013-10-03-bestissimple.markdown",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2013-09-27-androidintentapplication.markdown",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2013-09-24-measurearea.markdown",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2013-09-21-stuffofdictionary.markdown",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2013-09-21-setupqzoneforoctopress.markdown",
+		"/Users/rankun203/git/rankun203.github.com/source/_posts/2013-09-21-groovy-on-the-go.markdown",
 		"/Applications/IntelliJ IDEA 14.app/Contents/Info.plist",
 		"/Users/rankun203/Downloads/f (2).txt",
 		"/Users/rankun203/Downloads/f (1).txt",
@@ -191,7 +221,6 @@
 		"/Users/rankun203/Downloads/younion2015-08-07-22-00-00-0001",
 		"/Users/rankun203/Downloads/younion2015-08-08-08-00-00-0001",
 		"/Users/rankun203/git/nom0ve/team/website/design/website.sketch",
-		"/Users/rankun203/.ssh/id_rsa.pub",
 		"/Users/rankun203/git/nom0ve/PocketCampus/docker/campus-server-docker-tomcat/Dockerfile",
 		"/Users/rankun203/git/study/blog/app.js",
 		"/Users/rankun203/Downloads/cfed63bf33634fe38514657f8f6f0a74_pages.json",
@@ -199,8 +228,6 @@
 		"/Users/rankun203/git/nom0ve/outsourcing/SyncBeat/backup-6.18.2015_21-25-17_valvaldezgroup/mysql/valvalde_syncbeat.sql",
 		"/Users/rankun203/git/nom0ve/outsourcing/SyncBeat/backup-6.18.2015_21-25-17_valvaldezgroup/mysql/roundcube.sql",
 		"/Users/rankun203/git/nom0ve/outsourcing/SyncBeat/backup-6.18.2015_21-25-17_valvaldezgroup/mysql/valvalde_payment.sql",
-		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-07-12-javascript-oo.md",
-		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-06-18-rankun-fonts.md",
 		"/留学生社交调查",
 		"/Users/rankun203/Downloads/simple_bank.sql",
 		"/Users/rankun203/Downloads/xabber-android/gradle/wrapper/gradle-wrapper.properties",
@@ -213,7 +240,6 @@
 		"/Users/rankun203/git/nom0ve/outsourcing/SyncBeat/sync.cr/doc/sql/search_occurence/search_occurence.txt",
 		"/Users/rankun203/Desktop/appWeb/index.html",
 		"/Users/rankun203/git/ModernWebStudy/ps/PS作业.md",
-		"/Users/rankun203/git/rankun203.github.com/source/_posts/2015-06-18-blockchain.md",
 		"/Users/rankun203/Desktop/params.txt",
 		"/Users/rankun203/Desktop/untitled.txt",
 		"/Users/rankun203/git/nom0ve/PocketCampus/docker/campus-server-docker-tomcat/gradle_deamon.sh",
@@ -281,37 +307,11 @@
 		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/nginx/gzip.conf",
 		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/conf.d/gzip.conf",
 		"/Users/rankun203/git/nom0ve/PocketCampus/server-sub-docker/startup.sh",
-		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/apprunner",
-		"/Users/rankun203/git/dotfiles/extra/scripts/cline",
-		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server/src/main/resources/applicationContext.xml",
-		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server/src/main/resources/mybatis-config.xml",
-		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server/src/main/webapp/WEB-INF/spring-servlet.xml",
-		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-tomcat/startup.sh",
-		"/Users/rankun203/Desktop/allunivlist.json",
-		"/Users/rankun203/Desktop/allunivlist.js",
-		"/Users/rankun203/Downloads/export.txt",
-		"/Users/rankun203/Desktop/crawler/frontier/00000000.jdb",
-		"/Users/rankun203/Desktop/aa.html",
-		"/Users/rankun203/Desktop/aa.txt",
-		"/Users/rankun203/Desktop/ss.txt",
-		"/Users/rankun203/Downloads/9999.json",
-		"/Users/rankun203/Downloads/国际程序设计大赛作品欣赏/★先看说明★.txt",
-		"/Applications/android-sdk-macosx/sources/android-21/com/android/ex/editstyledtext/EditStyledText.java",
-		"/Users/rankun203/Downloads/aliyun_java_sdk_20150115/sources/versioninfo.properties",
-		"/Users/rankun203/Downloads/aliyun_java_sdk_20150115/Readme.txt",
-		"/Users/rankun203/git/nom0ve/PocketCampus/PocketCampus-server/doc/sql/Draft_2015_03_17.sql",
-		"/Users/rankun203/Downloads/id_rsa.pub",
-		"/tmp/subl stdin qPUv3f.txt",
-		"/Users/rankun203/Downloads/TangKa/res/layout/activity_design.xml",
-		"/Users/rankun203/Downloads/PapersMac_qqtn/安装使用说明.txt",
-		"/Users/rankun203/Downloads/TangKa/src/com/yamin/activity/DesignActivity.java",
-		"/Users/rankun203/Downloads/迅雷账号 (1).txt",
-		"/Users/rankun203/Downloads/Gamersky-1121-nfs14-by/说明.txt",
-		"/Users/rankun203/Downloads/artice_rankun203_2015-2-27-16-41-37.txt"
+		"/Users/rankun203/git/nom0ve/PocketCampus/campus-server-docker-nginx/apprunner"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -329,6 +329,11 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"2016/02/YoudarLogo2.png",
+			"syncpass0",
+			"`pwd`",
+			"`",
+			"\\`",
 			"Chatroom",
 			"avatar",
 			"images",
@@ -451,12 +456,7 @@
 			"CURRENT_create_time",
 			"CURRENT_TIMESTAMP\nCURRENT_create_time",
 			"Despise",
-			"imageUuid",
-			"majorAbbr",
-			"majorname",
-			"academyid",
-			"short_name",
-			"Shortname"
+			"imageUuid"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -464,6 +464,8 @@
 		"regex": true,
 		"replace_history":
 		[
+			"password",
+			"\"$PWD\"",
 			"DB",
 			"\\},\\n",
 			"",
@@ -589,9 +591,7 @@
 			"short_name",
 			"school_id",
 			"auth_enabled",
-			"comment_id",
-			"user_password",
-			"user_number"
+			"comment_id"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -654,7 +654,7 @@
 	"project": "posts.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":

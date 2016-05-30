@@ -3,8 +3,8 @@ layout: post
 title: 骑到天边
 date: 2014-08-14 12:44:06
 categories:
-- 生活
-- 骑行
+- life
+- riding
 tags:
 - Tibet
 - Cycling

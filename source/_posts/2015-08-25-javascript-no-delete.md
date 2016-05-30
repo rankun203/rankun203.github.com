@@ -1,9 +1,10 @@
 title: Javascript no delete
 date: 2015-08-25 22:43:15
 categories:
-- programming
+- node.js
 - note
 tags:
+- javascript
 - node.js
 - note
 ---

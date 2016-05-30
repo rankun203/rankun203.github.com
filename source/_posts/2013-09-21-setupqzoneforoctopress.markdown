@@ -4,8 +4,7 @@ title: "为Octopress的Greyshade主题添加QQ空间的链接"
 date: 2013-09-21 16:53
 comments: true
 categories:
-- Programming
-- Octopress
+- octopress
 tags:
 - Octopress
 - github

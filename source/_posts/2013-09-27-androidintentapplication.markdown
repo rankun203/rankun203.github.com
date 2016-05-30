@@ -4,8 +4,7 @@ title: "Android Activity之间传递数据"
 date: 2013-09-27 16:22
 comments: true
 categories:
-- Programming
-- Android
+- android
 tags:
 - Android
 - Activity

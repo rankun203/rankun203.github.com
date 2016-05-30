@@ -4,6 +4,7 @@ categories:
 - node.js
 - note
 tags:
+- javascript
 - node.js
 - mongoose
 - note
@@ -36,3 +37,5 @@ DBSchema.path('images').get(function (images) {
 ```
 
 <!-- more -->
+
+Schema.toJSON() should be used in a service, after the records are found.

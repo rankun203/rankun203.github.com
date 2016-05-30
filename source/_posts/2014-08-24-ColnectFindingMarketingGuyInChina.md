@@ -2,10 +2,9 @@
 title: Colnect Finding Marketing Guy In China
 date: 2014-08-24 20:11:19
 categories:
-- Business
 - Colnect
 tags:
-- Business
+- Recruit
 - Colnect
 - Marketing
 - Network Marketing

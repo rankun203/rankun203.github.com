@@ -88,4 +88,4 @@ deploy:
   type: git
   repo: 
     github: git@github.com:rankun203/rankun203.github.com.git,master
-    gitcafe: git@gitcafe.com:rankun203/rankun203.git,gitcafe-pages
+    gitcafe: git@git.coding.net:rankun203/rankun203.git,coding-pages

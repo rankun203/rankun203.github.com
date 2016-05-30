@@ -4,8 +4,7 @@ title: "Rocking Rasperry Pi"
 date: 2014-02-08 15:55:37 +0800
 comments: true
 categories:
-- Programming
-- Raspberry Pi
+- explorer
 tags:
 - Raspberry Pi
 - Debian

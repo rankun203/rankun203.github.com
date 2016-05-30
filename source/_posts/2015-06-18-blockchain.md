@@ -2,7 +2,7 @@
 title: Bitcoin playground
 date: 2015-06-18 18:52:09
 categories:
-- programming
+- explorer
 tags:
 - Bitcoin
 - BlockChain

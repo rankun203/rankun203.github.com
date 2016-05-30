@@ -4,8 +4,7 @@ title: "透明网络"
 date: 2013-12-15 10:36
 comments: true
 categories:
-- Experience
-- GFW
+- explorer
 tags:
 - GFW
 - YouTube

@@ -4,8 +4,7 @@ title: "一些关于词典和背单词的项目记录"
 date: 2013-09-21 20:46
 comments: true
 categories:
-- Programming
-- Java
+- java
 tags:
 - Dictionary
 - Shell
