@@ -6,6 +6,7 @@ branches:
   - source
 before_install:
 - rm -rf .deploy_git
+- sed -i "s/REPO_TOKE/${REPO_TOKEN}/" _config.yml
 install:
 - npm install hexo-cli -g
 - npm install
