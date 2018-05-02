@@ -15,13 +15,13 @@ tags:
 
 ## To do
 - [x] Create the Article and post it on Gitcafe & Github.
-- [ ] Setup Qiniu CDN.
+- [x] Setup Qiniu CDN.
 - [ ] Write the Article.
 - [ ] Find a way to orgnize Images.
 - [ ] Find a way to orgnize Videos.
 - [x] Convert All Videos with YouTube.
-- [ ] Upload all Images and Videos to Qiniu CDN.
-- [ ] Write a script to mentain the image & video links location (refer to Qiniu CDN).
+- [x] Upload all Images and Videos to Qiniu CDN.
+- [x] Write a script to mentain the image & video links location (refer to Qiniu CDN).
 
 ## 后续更新
 
