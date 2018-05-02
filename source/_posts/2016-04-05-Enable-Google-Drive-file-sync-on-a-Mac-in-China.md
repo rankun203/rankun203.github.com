@@ -10,6 +10,12 @@ tags:
 - gfw
 ---
 
+### UPDATE (2018-05-03):
+
+Another option is to use [Surge for Mac](http://nssurge.com/), it just works, fantastically well!
+
+----
+
 Use Polipo to convert a socks connection into a http proxy.
 
 ```

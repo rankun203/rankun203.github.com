@@ -87,5 +87,4 @@ exclude_generator:
 deploy:
   type: git
   repo: 
-    github: git@github.com:rankun203/rankun203.github.com.git,master
-    gitcafe: git@git.coding.net:rankun203/rankun203.git,coding-pages
+    github: https://github.com/rankun203/rankun203.github.com.git,master

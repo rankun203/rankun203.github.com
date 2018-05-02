@@ -5,6 +5,14 @@ tags:
 - sshfs
 ---
 
+### UPDATE (2018-05-03):
+
+I ended up using a [BandWagon VPS](https://bwh1.net/cart.php) as high volume traffic proxy with an [AEAD encryption method](https://tools.ietf.org/html/rfc7539) and another faster one as a backup instead of those ssh forwarding stuff, it was unstable and quickly fallen only one month later and never be fast again.
+
+----
+
+_The original post:_
+
 Use China mainland cloud server as a hop.
 
 ```

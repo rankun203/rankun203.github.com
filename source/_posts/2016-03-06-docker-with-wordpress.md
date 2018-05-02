@@ -8,6 +8,22 @@ tags:
 - docker
 ---
 
+### UPDATE (2018-05-11):
+
+Our team at [LodeStream](https://lodestream.com) has built a scaffold specifically for Wordpress development. You can check it out today and start play with it. Out of the box, it supports:
+
+- Docker, Docker Compose
+- Let's encrypt HTTPS
+- Nginx as a reverse proxy with auto generated config
+- Simplified domain configuration
+- More information in the repo
+
+Github repo: [lodestreams/wordpress-docker-compose](https://github.com/lodestreams/wordpress-docker-compose/)
+
+----
+
+_The original post:_
+
 Install Docker on a Ubuntu:
 
 Docker installation guide: https://docs.docker.com/engine/installation/linux/ubuntulinux/
