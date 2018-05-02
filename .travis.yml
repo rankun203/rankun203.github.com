@@ -5,8 +5,7 @@ branches:
   only:
   - source
 before_install:
-- git config --global user.name 'Kun Ran'
-- git config --global user.email 'rankun203@gmail.com'
+- rm -rf .deploy_git
 install:
 - npm install hexo-cli -g
 - npm install
@@ -16,6 +15,3 @@ script:
 - hexo deploy
 after_success:
 - git status
-- git add .
-- "git commit -am 'feat: update website'"
-- git push --quiet --force origin source
