@@ -159,13 +159,13 @@ tags:
 
 -----------------------------------------------------------------------------------------------------------------------
 
-![花花草草](http://blog-rankun-org.qiniudn.com/images%2FIMGP4497.JPG?imageView2/1/w/800/h/480/q/90)
-![花花草草](http://blog-rankun-org.qiniudn.com/images%2FIMGP4503.JPG?imageView2/1/w/800/h/480/q/90)
-![止](http://blog-rankun-org.qiniudn.com/images%2FIMGP4541.JPG?imageView2/1/w/800/h/480/q/90)
-![藏地旅行攻略图](http://blog-rankun-org.qiniudn.com/images%2FIMGP4767.JPG?imageView2/1/w/800/h/480/q/90)
-![旅店墙壁涂鸦](http://blog-rankun-org.qiniudn.com/images%2FIMGP4768.JPG?imageView2/1/w/800/h/480/q/90)
-![这雾，其实是焚烧垃圾产生的……ref](http://blog-rankun-org.qiniudn.com/images%2FIMGP4783.JPG?imageView2/1/w/800/h/480/q/90)
-![大蚊子](http://blog-rankun-org.qiniudn.com/images%2FIMGP4792.JPG?imageView2/1/w/800/h/480/q/90)
+![花花草草](http://blog-rankun-org.qiniudn.com/images%2FIMGP4497.jpg?imageView2/1/w/800/h/480/q/90)
+![花花草草](http://blog-rankun-org.qiniudn.com/images%2FIMGP4503.jpg?imageView2/1/w/800/h/480/q/90)
+![止](http://blog-rankun-org.qiniudn.com/images%2FIMGP4541.jpg?imageView2/1/w/800/h/480/q/90)
+![藏地旅行攻略图](http://blog-rankun-org.qiniudn.com/images%2FIMGP4767.jpg?imageView2/1/w/800/h/480/q/90)
+![旅店墙壁涂鸦](http://blog-rankun-org.qiniudn.com/images%2FIMGP4768.jpg?imageView2/1/w/800/h/480/q/90)
+![这雾，其实是焚烧垃圾产生的……ref](http://blog-rankun-org.qiniudn.com/images%2FIMGP4783.jpg?imageView2/1/w/800/h/480/q/90)
+![大蚊子](http://blog-rankun-org.qiniudn.com/images%2FIMGP4792.jpg?imageView2/1/w/800/h/480/q/90)
 ![吃点东西～雅安出来就一直在爬坡](http://blog-rankun-org.qiniudn.com/images%2FIMG_20140710_143304.jpg?imageView2/1/w/800/h/480/q/90)
 ![下雨天，云比较低](http://blog-rankun-org.qiniudn.com/images%2FIMG_20140710_143351.jpg?imageView2/1/w/800/h/480/q/90)
 ![一条废弃的钢架桥](http://blog-rankun-org.qiniudn.com/images%2FIMG_20140710_144722.jpg?imageView2/1/w/800/h/480/q/90)
