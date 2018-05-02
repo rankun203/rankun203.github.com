@@ -13,7 +13,7 @@ tags:
 - Liberty
 ---
 
-##To do
+## To do
 - [x] Create the Article and post it on Gitcafe & Github.
 - [ ] Setup Qiniu CDN.
 - [ ] Write the Article.
@@ -23,11 +23,11 @@ tags:
 - [ ] Upload all Images and Videos to Qiniu CDN.
 - [ ] Write a script to mentain the image & video links location (refer to Qiniu CDN).
 
-##后续更新
+## 后续更新
 
 - 2014-09-18 这辆自行车，掉了……锁在在广汉市东西路德克士门口，买东西20分钟，中途我出来看了一次，第二次出来看已经没了，我就那么盯着空荡荡的电线杆，想着或许能再见或许不能再见。后来报了警，做了笔录。心里想着ta就这么没了，我还想哪天空了给ta洗洗，挣了钱就给ta把有点问题的后轮换掉。没想到ta走的比我还快，更让我痛心的是，ta可能会就这样被放到某个旧货市场，以另一个侮辱ta的价格被卖出去，这肯定是ta不愿意的。
 
-##我们到了
+## 我们到了
 
 终于，在经历了24天骑行之后，我们到达了拉萨。布达拉宫，这座传说中的城堡现在就在我们的眼前。
 
@@ -35,7 +35,7 @@ tags:
 
 <!--more-->
 
-##原动力
+## 原动力
 
 我太嫩了，我什么都不懂。
 
@@ -47,7 +47,7 @@ tags:
 
 如果你喜欢看宫崎骏的电影，那你一定会喜欢西藏的。
 
-####川藏线很美
+#### 川藏线很美
 
 大学的时候其实跟一些喜欢骑车的朋友都说起过想去骑川藏线，但就我个人觉、的、吧、、并不是很喜欢骑长途。
 
@@ -65,7 +65,7 @@ tags:
 
 我想，不管是相信老天的存在或胸怀更宽广，都说明着一个人对自然更加的尊敬了，仿佛神明就在自己的眼前。手持佛珠也是这么个道理，不是说我就一定信佛，而是信善。
 
-####亮哥突如其来的鸡血正好打在那一天
+#### 亮哥突如其来的鸡血正好打在那一天
 
 吵架了，我又没做好……正好一晚上睡不着觉，第二天亮哥发来`冰桶挑战`：
 
@@ -74,7 +74,7 @@ tags:
 我想了一下，毅然回复`走就走！`，于是，我们说定了。
 
 
-##我们真的是来打酱油的
+## 我们真的是来打酱油的
 
 这尼玛咋个回事儿，都中午了还在学校旁边转 T\_T 钟金亮你个二货，快跑哇，快跑哇，雅安还远着呢-\_-||
 
@@ -86,7 +86,7 @@ tags:
 
 只是觉的有这样一条没有尽头的公路陪着很舒心，可以思考其他的事儿。
 
-##出发了！
+## 出发了！
 
 按照事先的约定，9号早上几经辗转到了亮哥住处，又见到了他，不过这一次见到他意义与从前大不相同了，我们现在可是要一起度过接下来一个月的伙伴了。
 
@@ -135,7 +135,7 @@ tags:
 </video><span class="caption">奔向qiong莱</span>
 
 
-####亮哥的故乡——雅安
+#### 亮哥的故乡——雅安
 
 ![一进城就看到这样一个标志物，马踏飞球、立马滚蛋、各种称呼都有，还有司机师傅叫马踏飞燕的:p](http://blog.mindfine.com/images%2FIMG_20140709_192311.jpg?imageView2/1/w/800/h/480/q/90)
 
@@ -228,7 +228,7 @@ tags:
 
 左边是一段川藏公路简介，右边有一幅惟妙惟肖的浮雕。
 
-####泸定
+#### 泸定
 
 ![泸定城区路口，对面山上的那条“折多路”还是挺炫酷的:p](http://blog.mindfine.com/images%2FIMG_20140711_173548~2.jpg?imageView2/1/w/800/h/480/q/90)
 ![泸定医院](http://blog.mindfine.com/images%2FIMG_20140711_205023_HDR.jpg?imageView2/1/w/800/h/480/q/90)
@@ -330,7 +330,7 @@ tags:
 ![兵站，爱上这几朵云了:)](http://blog.mindfine.com/images%2FIMG_20140713_151651.jpg?imageView2/1/w/800/h/480/q/90)
 ![高高的山尖](http://blog.mindfine.com/images%2FIMG_20140713_151722~2.jpg?imageView2/1/w/800/h/480/q/90)
 
-####新都桥镇
+#### 新都桥镇
 
 ![到旅店了，又下起雨啦、、](http://blog.mindfine.com/images%2FIMG_20140713_170334.jpg?imageView2/1/w/800/h/480/q/90)
 ![就住在这儿的啦](http://blog.mindfine.com/images%2FIMG_20140713_170702.jpg?imageView2/1/w/800/h/480/q/90)
@@ -361,7 +361,7 @@ tags:
 ![给ta洗洗，上上油什么的，待会儿要焕然一新的哈](http://blog.mindfine.com/images%2FIMG_20140715_133420.jpg?imageView2/1/w/800/h/480/q/90)
 ![住家的小孩儿，他家挺贯他的，哈哈～](http://blog.mindfine.com/images%2FIMG_20140715_190506.jpg?imageView2/1/w/800/h/480/q/90)
 
-####剪子弯山、卡子拉山、、、
+#### 剪子弯山、卡子拉山、、、
 
 ![今天我们去剪子弯山、卡子拉山、红龙乡～～要多美有多美，好吧，这些个搭车的是体会不到了，他们直接坐车去理塘，拜拜～](http://blog.mindfine.com/images%2FIMG_20140716_073121.jpg?imageView2/1/w/800/h/480/q/90)
 ![爬坡啊爬坡](http://blog.mindfine.com/images%2FIMG_20140716_074922.jpg?imageView2/1/w/800/h/480/q/90)
@@ -438,7 +438,7 @@ tags:
 ![你猜怎么着？牛奶！](http://blog.mindfine.com/images%2FIMG_20140716_183915.jpg?imageView2/1/w/800/h/480/q/90)
 ![就是去这家灌的，所以说嘛，佛祖没有忘记我～](http://blog.mindfine.com/images%2FIMG_20140716_183919.jpg?imageView2/1/w/800/h/480/q/90)
 
-####高山之城：理塘
+#### 高山之城：理塘
 
 ![依偎着理塘的群山，在夕阳的照射下，这几个山头显得特别有韵味](http://blog.mindfine.com/images%2FIMG_20140716_185210.jpg?imageView2/1/w/800/h/480/q/90)
 
@@ -513,7 +513,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 
 堵到了晚上七点钟，路上还有很多骑车的，今晚可能到芒康就是很晚了
 
-####芒康
+#### 芒康
 
 ![管他呢，先吃顿好的，分量还不错，在这荒山野岭的](http://blog.mindfine.com/images%2FIMG_20140717_210713.jpg?imageView2/1/w/800/h/480/q/90)
 
@@ -614,7 +614,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![仍然在坚持骑的小伙子](http://blog.mindfine.com/images%2FIMG_20140720_153411.jpg?imageView2/1/w/800/h/480/q/90)
 ![东达山山顶，今天就是爬这玩意儿来着:D注意最左边的路人甲](http://blog.mindfine.com/images%2FIMG_20140720_164547.jpg?imageView2/1/w/800/h/480/q/90)
 
-####左贡
+#### 左贡
 
 ![快到左贡了，这儿的峡谷很美](http://blog.mindfine.com/images%2FIMG_20140720_181214.jpg?imageView2/1/w/800/h/480/q/90)
 
@@ -692,7 +692,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![一片大云压在业拉山顶](http://blog.mindfine.com/images%2FIMG_20140722_132558.jpg?imageView2/1/w/800/h/480/q/90)
 ![他们要修一间屋子，这火砖跟我们老家的一样呢](http://blog.mindfine.com/images%2FIMG_20140722_132603.jpg?imageView2/1/w/800/h/480/q/90)
 
-####怒江72拐
+#### 怒江72拐
 
 下99道拐了，不过我的车子后轮已经扁了，邦达修不了，这也是冒着很大风险哇！
 
@@ -780,7 +780,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 
 肚子疼，两天多没补充能量了。吃的东西也不消化。
 
-####然乌
+#### 然乌
 
 ![然乌一家饭馆，旅行者的热情果然无处不在啊](http://blog.mindfine.com/images%2FIMG_20140724_210221.jpg?imageView2/1/w/800/h/480/q/90)
 ![衣物都弄出来吹一吹吧，虽然可能没什么效果，整个陀包都湿了，变重了好多-_-||](http://blog.mindfine.com/images%2FIMG_20140725_083946.jpg?imageView2/1/w/800/h/480/q/90)
@@ -806,7 +806,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![远处的雪山以及天上的白云，山间的雾，一切的一切](http://blog.mindfine.com/images%2FIMG_20140725_145943.jpg?imageView2/1/w/800/h/480/q/90)
 ![青春……拨云见日](http://blog.mindfine.com/images%2FIMG_20140725_152520.jpg?imageView2/1/w/800/h/480/q/90)
 
-####波密
+#### 波密
 
 ![这树被吹的、、](http://blog.mindfine.com/images%2FIMG_20140725_160534.jpg?imageView2/1/w/800/h/480/q/90)
 
@@ -854,7 +854,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![壮观的山间云雾](http://blog.mindfine.com/images%2FIMG_20140726_133352.jpg?imageView2/1/w/800/h/480/q/90)
 ![这牛真莫名堂、、、躺那儿不走了还](http://blog.mindfine.com/images%2FIMG_20140726_140624.jpg?imageView2/1/w/800/h/480/q/90)
 
-####通麦天险
+#### 通麦天险
 
 ![从通麦天险出来的车子都这样](http://blog.mindfine.com/images%2FIMG_20140726_143817.jpg?imageView2/1/w/800/h/480/q/90)
 ![通麦住下咯～这旅馆不错的哈，沙发客来睡沙发啦，老板娘说院子里的沙发免费睡噢～～](http://blog.mindfine.com/images%2FIMG_20140726_162636.jpg?imageView2/1/w/800/h/480/q/90)
@@ -908,7 +908,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 
 我瞬间就不想骑下去了……
 
-####鲁朗
+#### 鲁朗
 
 ![蓝蓝的天白白的云，黑黑的柏油路](http://blog.mindfine.com/images%2FIMG_20140727_184305.jpg?imageView2/1/w/800/h/480/q/90)
 ![对面山坡上住着几家人](http://blog.mindfine.com/images%2FIMG_20140727_185212.jpg?imageView2/1/w/800/h/480/q/90)
@@ -969,7 +969,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 
 ![天空正在给对面那片山上的花儿浇水](http://blog.mindfine.com/images%2FIMG_20140728_133421.jpg?imageView2/1/w/800/h/480/q/90)
 
-####林芝地区
+#### 林芝地区
 
 ![我想说，难道对面那座山头就是我待会儿要经过的地方？？安久拉山我来了～～](http://blog.mindfine.com/images%2FIMG_20140728_140411.jpg?imageView2/1/w/800/h/480/q/90)
 ![林芝～大城市哇～～](http://blog.mindfine.com/images%2FIMG_20140728_165844.jpg?imageView2/1/w/800/h/480/q/90)
@@ -987,7 +987,7 @@ ref: 甘孜地区七月份一直都在断网，我们已经忍受了好几天了
 ![小溪](http://blog.mindfine.com/images%2FIMG_20140729_113634.jpg?imageView2/1/w/800/h/480/q/90)
 ![塔儿](http://blog.mindfine.com/images%2FIMG_20140729_140551.jpg?imageView2/1/w/800/h/480/q/90)
 
-####公布江达
+#### 公布江达
 
 ![亮点是黄色的噢～](http://blog.mindfine.com/images%2FIMG_20140729_150131.jpg?imageView2/1/w/800/h/480/q/90)
 ![路边修剪草皮的工人](http://blog.mindfine.com/images%2FIMG_20140729_154413.jpg?imageView2/1/w/800/h/480/q/90)
