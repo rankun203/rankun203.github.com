@@ -87,4 +87,4 @@ exclude_generator:
 deploy:
   type: git
   repo: 
-    github: https://github.com/rankun203/rankun203.github.com.git,master
+    github: https://$REPO_TOKE@github.com/rankun203/rankun203.github.com.git,master
