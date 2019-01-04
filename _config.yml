@@ -12,7 +12,7 @@ language: zh_CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.rankun.org
+url: https://rankun203.github.io
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
