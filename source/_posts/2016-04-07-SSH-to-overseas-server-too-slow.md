@@ -51,7 +51,3 @@ Ref:
 
 - [SSH端口转发（隧道）](http://linux-wiki.cn/wiki/SSH%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91%EF%BC%88%E9%9A%A7%E9%81%93%EF%BC%89)
 - https://help.ubuntu.com/community/SSH/OpenSSH/PortForwarding
-
-Thanks for reading,
-Regards,
-Kun
