@@ -18,6 +18,7 @@
     "hexo-server": "^0.3.3"
   },
   "scripts": {
-    "replaceImageUrl": "hexo generate"
+    "replaceImageUrl": "hexo generate",
+    "publish": "hexo clean && hexo generate && hexo deploy"
   }
 }
