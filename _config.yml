@@ -7,12 +7,12 @@ title: I'm Kun
 subtitle: Thanks for stopping by!
 description: 
 author: Kun Ran
-email: rankun203@gmail.com
+email: kun@rankun.net
 language: zh_CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://rankun203.github.io
+url: https://blog.rankun.net
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
