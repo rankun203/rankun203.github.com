@@ -63,12 +63,7 @@ The result?
 
 Might surprise you :-)
 
-OK, attached the video ;)
-
-<video class="video" style="width: 800px;" poster="http://7xl32h.com1.z0.glb.clouddn.com/dev/screencast/3-tier-slipper.jpg" preload='none' controls>
-  <source src="http://7xl32h.com1.z0.glb.clouddn.com/dev/screencast/3-tier-slipper.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video><span class="caption">Speed of 3-tier-port-forwarding</span>
+~~OK, attached the video ;)~~
 
 Step closer to development:
 
