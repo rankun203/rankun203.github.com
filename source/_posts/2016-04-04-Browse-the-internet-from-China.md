@@ -12,9 +12,7 @@ tags:
 Updates:
 
 - 2016-05-27 14:25:20
-  - Docker enthusiast?
-
-    <img width=275 src='http://7xl32h.com1.z0.glb.clouddn.com/pictures/blog/docker-pull-image.png'>
+  - Docker enthusiast? (7MB/s)
 
 Let's talk about network. Chinese version.
 
