@@ -5,7 +5,7 @@ tags:
 - work
 ---
 
-Today I joined [Wiredcraft](https://wiredcraft.com).
+Today I joined [Wiredcraft](https://wiredcraft.com), I like the vibe in this company, 感觉大家都挺专业的。
 
 Now I'm officially in Shanghai. 
 
