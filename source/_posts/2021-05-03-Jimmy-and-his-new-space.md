@@ -6,7 +6,7 @@ tags:
 - business
 ---
 
-Give everything you have and watch the ripples
+Give everything you have and watch the ripples.
 
 居然被热醒了… 有一些时间没回来成都了，刚刚 Jimmy 给我发了他公司 “new space” 的 3D 模型跟场景渲染图，我太喜欢了，明天去看看施工进展。现在他公司做的整体装修布置我觉得已经很🉑了（好吧我是眼馋他满桌子的无人机 跟 3D 打印的机械臂，哪个科技发烧友不眼馋 😂），但我知道他想要更多，更好，”more”, more! 多么富有人类情感的一个词 😝
 
