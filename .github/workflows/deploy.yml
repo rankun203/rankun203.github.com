@@ -1,0 +1,35 @@
+name: Publish Website
+
+on:
+  push:
+    branches:
+      - source
+  repository_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [9.11.1]
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: rm -rf .deploy_git
+      - name: Install hexo
+        run: npm install hexo-cli -g
+      - name: Build
+        run: npm install
+        run: hexo clean
+        run: hexo generate
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.REPO_TOKEN }}
+          publish_dir: ./public
+      - run: git status
