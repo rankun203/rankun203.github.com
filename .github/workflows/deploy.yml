@@ -12,7 +12,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [9.11.1]
+        node-version: [10.*]
 
     steps:
       - uses: actions/checkout@v1
@@ -22,7 +22,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: rm -rf .deploy_git
       - name: Install hexo
-        run: npm install hexo-cli -g
+        run: npm install hexo-cli@4.3.0 -g
       - name: Install dependencies
         run: npm install
       - name: Build
