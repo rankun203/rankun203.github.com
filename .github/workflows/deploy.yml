@@ -20,7 +20,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - run: rm -rf .deploy_git
+      - name: Hexo environment
+        run: rm -rf .deploy_git && sed -i "s/REPO_TOKE/${REPO_TOKEN}/" _config.yml
       - name: Install hexo
         run: npm install hexo-cli@4.3.0 -g
       - name: Install dependencies
@@ -28,8 +29,4 @@ jobs:
       - name: Build
         run: hexo clean && hexo generate
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.REPO_TOKEN }}
-          publish_dir: ./public
-
+        run: hexo deploy
