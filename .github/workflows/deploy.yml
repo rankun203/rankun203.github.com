@@ -6,6 +6,11 @@ on:
       - source
   repository_dispatch:
 
+env:
+  GIT_USER: Github Actions
+  GIT_EMAIL: actions@rankun.net
+  REPO_TOKEN: ${{ secrets.API_AUTH }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,7 +26,11 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - name: Hexo environment
-        run: rm -rf .deploy_git && sed -i "s/REPO_TOKE/${REPO_TOKEN}/" _config.yml
+        run: |
+          rm -rf .deploy_git
+          sed -i "s/REPO_TOKE/${REPO_TOKEN}/" _config.yml
+          git config --global user.name $GIT_USER
+          git config --global user.email $GIT_EMAIL
       - name: Install hexo
         run: npm install hexo-cli@4.3.0 -g
       - name: Install dependencies
