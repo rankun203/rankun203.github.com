@@ -9,7 +9,7 @@ on:
 env:
   GIT_USER: Github Actions
   GIT_EMAIL: actions@rankun.net
-  REPO_TOKEN: ${{ secrets.API_AUTH }}
+  REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
 
 jobs:
   build:
