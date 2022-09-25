@@ -70,3 +70,5 @@ tags:
 ![](https://rankun203-github-io.oss-cn-hangzhou.aliyuncs.com/assets/images/2022-09-25-water/water-29.jpeg)
 
 后来无意中发现，这本书获得了 2022 年的 Honorary Award 奖：“World's Most Beautiful Book”。
+
+更多王牧羽作品信息：https://wangmuyu.artron.net/
