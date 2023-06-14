@@ -54,23 +54,23 @@ This policy is effective as of the date set forth above and is only a summary of
 
 We retain personal data as long as it is needed to to conduct our legitimate business purposes or to comply with our legal obligations, or until you ask us to delete your data. For example, we will retain certain personal information indefinitely for the purposes of maintaining your account, unless and until you delete your account.
 
-### 8**. Third-Party Sites**
+### 8. Third-Party Sites
 
 Our Extension may contain links to other websites. If you choose to click on a third-party link, you will be directed to that third party's website. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices.
 
-### 9**. Governing Law**
+### 9. Governing Law
 
 This Privacy Policy is governed by the laws of China. Any dispute arising from the use of the Extension shall be submitted to the competent court in the jurisdiction where Kun Ran resides.
 
-### **10. Your Consent**
+### 10. Your Consent
 
 By using the Extension, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-### **11. Contact Us**
+### 11. Contact Us
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through the Extension or at support@readnow.app.
 
-### **12. Changes to the Privacy Policy**
+### 12. Changes to the Privacy Policy
 
 We may revise our Privacy Policy from time to time. The most current version of the policy will govern our processing of your personal data and will always be available to you. If we make a change to this policy that, in our sole discretion, is material, we will notify you via the email address associated with your account.
 
