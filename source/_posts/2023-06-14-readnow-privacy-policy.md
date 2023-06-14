@@ -9,7 +9,7 @@ tags:
 - readnow
 ---
 
-## **Privacy Policy for Readnow Safari Extension**
+## Privacy Policy for Readnow Safari Extension
 
 Effective date: June 14, 2023
 
@@ -17,13 +17,13 @@ Kun Ran ("we," "our," or "us") respects your privacy and is committed to protect
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By using or accessing the Extension, you agree to this Privacy Policy.
 
-### **1. Information We Collect**
+### 1. Information We Collect
 
 The Extension uses storage permissions to store your reading progress. It also uses tab permissions to get the current reading tab URL. The alarms permission is used to update the Extension badge text. The data gathered by these features is stored locally on your device and is not collected or used by us.
 
 We use the '**https://api.readnow.app/**' server to parse articles. No personal information from your use of our Extension is communicated back to us in this way.
 
-### **2. How We Use Your Information**
+### 2. How We Use Your Information
 
 We use the information we collect from the Extension to provide, maintain, and improve the Extension and to develop new services.
 
@@ -31,26 +31,26 @@ We do not share personal information with companies, organizations, or individua
 
 - **For legal reasons.** We will share personal information with companies, organizations, or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process, or enforceable governmental request.
 
-### **3. Security**
+### 3. Security
 
 We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. We use various security measures to protect your information, which includes but is not limited to encryption, firewalls, and secure socket layer technology.
 
-### **4. Changes to Our Privacy Policy**
+### 4. Changes to Our Privacy Policy
 
 It is our policy to post any changes we make to our Privacy Policy on this page. The date the Privacy Policy was last revised is identified at the top of the page.
 
-### **5. Contact Information**
+### 5. Contact Information
 
 Kun Ran welcomes your questions or comments regarding the Privacy Policy. Please contact us at:
 Email Address: support@readnow.app
 
-### **6. Language**
+### 6. Language
 
 This contract was originally written in English (US). To the extent any translated version of this agreement conflicts with the English version, the English version controls.
 
 This policy is effective as of the date set forth above and is only a summary of our data collection, usage, and protection practices. By using our Extension, you signify your assent to this Privacy Policy. If you do not agree with our policies and practices, your choice is not to use our Extension.
 
-### 7**. Data Retention**
+### 7. Data Retention
 
 We retain personal data as long as it is needed to to conduct our legitimate business purposes or to comply with our legal obligations, or until you ask us to delete your data. For example, we will retain certain personal information indefinitely for the purposes of maintaining your account, unless and until you delete your account.
 
