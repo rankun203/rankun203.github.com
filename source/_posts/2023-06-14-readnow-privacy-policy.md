@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Privacy Policy for Readnow"
 date: 2023-06-14 11:26
 comments: false
