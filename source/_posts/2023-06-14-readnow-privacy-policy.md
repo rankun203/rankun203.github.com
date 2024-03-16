@@ -7,6 +7,8 @@ Kun Ran ("we," "our," or "us") respects your privacy and is committed to protect
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By using or accessing the Extension, you agree to this Privacy Policy.
 
+<!--more-->
+
 ### 1. Information We Collect
 
 The Extension uses storage permissions to store your reading progress. It also uses tab permissions to get the current reading tab URL. The alarms permission is used to update the Extension badge text. The data gathered by these features is stored locally on your device and is not collected or used by us.
