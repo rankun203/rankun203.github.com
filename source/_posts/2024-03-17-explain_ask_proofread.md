@@ -21,7 +21,7 @@ During the process, I developed several shortcuts utilizing LLMs, These methods 
 - **❓ Ask**: https://www.icloud.com/shortcuts/8e1fbe237bfb49509802a7e8dfbc7f57 (updated 17/03/2024).
 - **🩺 Proofread**: https://www.icloud.com/shortcuts/e718543285bc47359c52c388bbe0fefb (updated 17/03/2024).
 
-Before using them, you will need to obtain a Groq api key, Please visit [here](https://console.groq.com/keys) to create an API Key, register on that website in the process if necessary.
+Before using them, you will need to obtain a Groq api key, Please visit [here](https://console.groq.com/keys) to create an API Key. If necessary, register on that website in the process.
 
 > [!NOTE]
 > [Groq](https://groq.com/) is the creator of the world's first Language Processing Unit (LPU), by registering with them you get free access to its service via API. It's compatible with OpenAI API.
