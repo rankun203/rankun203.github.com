@@ -23,5 +23,9 @@ During the process, I developed several shortcuts utilizing LLMs, These methods 
 
 Before using them, you will need to obtain a Groq api key, Please visit [here](https://console.groq.com/keys) to create an API Key. If necessary, register on that website in the process.
 
+Example usage:
+
+![Example usage of shortcuts](/images/shortcuts/ask.png)
+
 > [!NOTE]
 > [Groq](https://groq.com/) is the creator of the world's first Language Processing Unit (LPU), by registering with them you get free access to its service via API. It's compatible with OpenAI API. The reason to choose Groq over more powerful GPT-4 is "free" and "blazingly fast".
