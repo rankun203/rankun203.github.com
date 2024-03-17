@@ -28,4 +28,4 @@ Before using them, you will need to obtain a Groq api key, Please visit [here](h
 
 ## Example usage
 
-![Example usage of shortcuts](/images/shortcuts/ask.png)
+<img src="/images/shortcuts/ask.png" alt="Example usage of shortcuts" style="max-width: 1024px;">
