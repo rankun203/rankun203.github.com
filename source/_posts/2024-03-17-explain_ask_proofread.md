@@ -17,9 +17,10 @@ Lately, I have been delving into papers from a new field, and I often find the s
 
 During the process, I developed several shortcuts utilizing LLMs, These methods assisted me in explaining concepts, answering my questions, and proof-reading my writings.
 
-- **🪄 Explain**: https://www.icloud.com/shortcuts/402082a37ae84c3c85e364757de2530b (updated 17/03/2024).
-- **❓ Ask**: https://www.icloud.com/shortcuts/8e1fbe237bfb49509802a7e8dfbc7f57 (updated 17/03/2024).
-- **🩺 Proofread**: https://www.icloud.com/shortcuts/e718543285bc47359c52c388bbe0fefb (updated 17/03/2024).
+- **🪄 Explain**: https://www.icloud.com/shortcuts/d85ee5b1959b4d25aa64ea93827dea91 (updated 18/03/2024).
+- **❓ Ask**: https://www.icloud.com/shortcuts/1f9f7f36df88458bbc194d64074748f6 (updated 18/03/2024).
+- **🩺 Proofread**: https://www.icloud.com/shortcuts/3f69b404303a4b64a87ee7a61701fae4 (updated 18/03/2024).
+- **👩‍⚕️ Google Scholar**: https://www.icloud.com/shortcuts/442a9ad20e0b42a687306c05ae594ee3 (updated 18/03/2024).
 
 Before using them, you will need to obtain a Groq api key, Please visit [here](https://console.groq.com/keys) to create an API Key. If necessary, register on that website in the process.
 
@@ -30,3 +31,7 @@ Before using them, you will need to obtain a Groq api key, Please visit [here](h
 
 ![Example usage of shortcuts](/images/shortcuts/ask.png)
 
+## Change logs
+
+- 18/03/2024: added logging, storing all requests and responses, system prompts, into an HTML file, stored in iCloud Shortcuts folder
+- 17/03/2024: initial version
