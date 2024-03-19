@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apple Shortcuts to maximise your reading performance"
+title: "Apple Shortcuts to boost your reading performance"
 date: 2024-03-17 10:16
 comments: true
 categories:
