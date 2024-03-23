@@ -18,9 +18,15 @@ Lately, I have been delving into papers from a new field, and I often find the s
 During the process, I developed several shortcuts utilizing LLMs, These methods assisted me in explaining concepts, answering my questions, and proof-reading my writings.
 
 - **🪄 Explain**: https://www.icloud.com/shortcuts/d85ee5b1959b4d25aa64ea93827dea91 (updated 18/03/2024).
+  - Explain selected text in plain English
 - **❓ Ask**: https://www.icloud.com/shortcuts/1f9f7f36df88458bbc194d64074748f6 (updated 18/03/2024).
+  - Ask a question against selected text
 - **🩺 Proofread**: https://www.icloud.com/shortcuts/3f69b404303a4b64a87ee7a61701fae4 (updated 18/03/2024).
+  - Proofread selected text in british english standard
+- **🚏 Format JSON**: https://www.icloud.com/shortcuts/ab01f3c69a024e5b8950fc489ae7b095 (updated 23/03/2024).
+  - Format selected text in JSON
 - **👩‍⚕️ Google Scholar**: https://www.icloud.com/shortcuts/442a9ad20e0b42a687306c05ae594ee3 (updated 18/03/2024).
+  - Search selected text in Google Scholar
 
 Before using them, you will need to obtain a Groq api key, Please visit [here](https://console.groq.com/keys) to create an API Key. If necessary, register on that website in the process.
 
