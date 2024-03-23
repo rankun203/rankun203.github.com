@@ -23,7 +23,7 @@ During the process, I developed several shortcuts utilizing LLMs, These methods 
   - Ask a question against selected text
 - **🩺 Proofread**: https://www.icloud.com/shortcuts/3f69b404303a4b64a87ee7a61701fae4 (updated 18/03/2024).
   - Proofread selected text in british english standard
-- **🚏 Format JSON**: https://www.icloud.com/shortcuts/ab01f3c69a024e5b8950fc489ae7b095 (updated 23/03/2024).
+- **🚏 Format JSON**: https://www.icloud.com/shortcuts/48b07bf9955d4636b476ba9626219c7e (updated 23/03/2024).
   - Format selected text in JSON
 - **👩‍⚕️ Google Scholar**: https://www.icloud.com/shortcuts/442a9ad20e0b42a687306c05ae594ee3 (updated 18/03/2024).
   - Search selected text in Google Scholar
