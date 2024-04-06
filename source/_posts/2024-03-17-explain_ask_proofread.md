@@ -32,10 +32,12 @@ Before using them, you will need to obtain a Groq api key, Please visit [here](h
 
 ## Similar Shortcuts Using OpenAI GPT
 
-- **🪄 Explain GPT**: https://www.icloud.com/shortcuts/9d8e98d6833447efb2ab80d833d43779 (GPT-4, updated 06/04/2024).
-- **❓ Ask GPT**: https://www.icloud.com/shortcuts/791588e7255847d0aa37905a2402abd5 (GPT-4, updated 06/04/2024).
-- **🩺 Proofread GPT**: https://www.icloud.com/shortcuts/f72045bdda444c6382782acd148c0837 (GPT-4, updated 06/04/2024).
-- **🚏 Format GPT**: https://www.icloud.com/shortcuts/c83cc5e99ac840f9ab1917fcee07af0d (GPT-3.5, updated 06/04/2024).
+Is my api key safe? Read the README of html-gpt: https://github.com/rankun203/html-gpt.
+
+- **🪄 Explain GPT**: https://www.icloud.com/shortcuts/8606b26b404d4e7ea340acdc89c46717 (GPT-4, updated 06/04/2024).
+- **❓ Ask GPT**: https://www.icloud.com/shortcuts/0f9ebb9a7c40453b8198fe5da15e9b43 (GPT-4, updated 06/04/2024).
+- **🩺 Proofread GPT**: https://www.icloud.com/shortcuts/d14760568b6b401994f2d5bc0927504f (GPT-4, updated 06/04/2024).
+- **🚏 Format GPT**: https://www.icloud.com/shortcuts/b7d2cf9255b7453cac80793f3e073698 (GPT-3.5, updated 06/04/2024).
 
 > [!NOTE]
 > [Groq](https://groq.com/) is the creator of the world's first Language Processing Unit (LPU), by registering with them you get free access to its service via API. It's compatible with OpenAI API. The reason to choose Groq over more powerful GPT-4 is "free" and "blazingly fast".
