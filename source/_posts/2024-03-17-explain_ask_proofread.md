@@ -34,6 +34,8 @@ Before using them, you will need to obtain a Groq api key, Please visit [here](h
 
 ⚠️ Is my api key safe? Read the README of html-gpt: https://github.com/rankun203/html-gpt.
 
+You will need to obtain an OpenAI API Key to use these shortcuts. If not, you can change the shortcut config to point to another free model.
+
 - **🪄 Explain GPT**: https://www.icloud.com/shortcuts/8606b26b404d4e7ea340acdc89c46717 (GPT-4, updated 06/04/2024).
 - **❓ Ask GPT**: https://www.icloud.com/shortcuts/0f9ebb9a7c40453b8198fe5da15e9b43 (GPT-4, updated 06/04/2024).
 - **🩺 Proofread GPT**: https://www.icloud.com/shortcuts/d14760568b6b401994f2d5bc0927504f (GPT-4, updated 06/04/2024).
