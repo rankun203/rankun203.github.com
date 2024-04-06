@@ -48,5 +48,6 @@ Before using them, you will need to obtain a Groq api key, Please visit [here](h
 
 ## Change logs
 
+- 06/04/2024: added more sophisticated GPT-4 for tasks, streaming output
 - 18/03/2024: added logging, storing all requests and responses, system prompts, into an HTML file, stored in iCloud Shortcuts folder
 - 17/03/2024: initial version
