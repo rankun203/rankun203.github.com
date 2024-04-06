@@ -41,9 +41,6 @@ You will need to obtain an OpenAI API Key to use these shortcuts. If not, you ca
 - **🩺 Proofread GPT**: https://www.icloud.com/shortcuts/d14760568b6b401994f2d5bc0927504f (GPT-4, updated 06/04/2024).
 - **🚏 Format GPT**: https://www.icloud.com/shortcuts/b7d2cf9255b7453cac80793f3e073698 (GPT-3.5, updated 06/04/2024).
 
-> [!NOTE]
-> [Groq](https://groq.com/) is the creator of the world's first Language Processing Unit (LPU), by registering with them you get free access to its service via API. It's compatible with OpenAI API. The reason to choose Groq over more powerful GPT-4 is "free" and "blazingly fast".
-
 ## Example usage
 
 ![Example usage of shortcuts](/images/shortcuts/ask.png)
