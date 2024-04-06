@@ -30,7 +30,7 @@ During the process, I developed several shortcuts utilizing LLMs, These methods 
 
 Before using them, you will need to obtain a Groq api key, Please visit [here](https://console.groq.com/keys) to create an API Key. If necessary, register on that website in the process.
 
-## Similar Shortcuts Using OpenAI GPT
+## Supercharged Using GPT-4
 
 ⚠️ Is my api key safe? Read the README of html-gpt: https://github.com/rankun203/html-gpt.
 
