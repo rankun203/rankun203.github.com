@@ -19,13 +19,13 @@ During the process, I developed several shortcuts utilizing LLMs, These methods 
 
 ⚠️ Is my api key safe? Read the README of html-gpt: https://github.com/rankun203/html-gpt.
 
-- **🪄 Explain GPT**: https://www.icloud.com/shortcuts/8606b26b404d4e7ea340acdc89c46717 (GPT-4, updated 06/04/2024).
+- **🪄 Explain GPT**: https://www.icloud.com/shortcuts/ab6741e13db34fcd80d11cab6d003f98 (GPT-4, updated 09/04/2024).
   - Explain selected text in plain English
-- **❓ Ask GPT**: https://www.icloud.com/shortcuts/5fb876f8c50c43a79fc7288428f8a7f5 (GPT-4, updated 09/04/2024).
+- **❓ Ask GPT**: https://www.icloud.com/shortcuts/1b1dd8fe28eb4078ad507c061b1d381b (GPT-4, updated 09/04/2024).
   - Ask a question against selected text
-- **🩺 Proofread GPT**: https://www.icloud.com/shortcuts/d14760568b6b401994f2d5bc0927504f (GPT-4, updated 06/04/2024).
+- **🩺 Proofread GPT**: https://www.icloud.com/shortcuts/aaf963c5eae846c896da220489893892 (GPT-4, updated 09/04/2024).
   - Proofread selected text in british english standard
-- **🚏 Format GPT**: https://www.icloud.com/shortcuts/b7d2cf9255b7453cac80793f3e073698 (GPT-3.5, updated 06/04/2024).
+- **🚏 Format GPT**: https://www.icloud.com/shortcuts/cd72a87505ca4834a9f9770d9fcf445c (GPT-3.5, updated 09/04/2024).
   - Format selected text in JSON
 - **👩‍⚕️ Google Scholar**: https://www.icloud.com/shortcuts/442a9ad20e0b42a687306c05ae594ee3 (updated 18/03/2024).
   - Search selected text in Google Scholar
@@ -45,6 +45,7 @@ You will need to obtain an OpenAI API Key to use these shortcuts. If not, you ca
 
 ## Change logs
 
+- 09/04/2024: updated models to `gpt-4-turbo-preview`
 - 06/04/2024: added more sophisticated GPT-4 for tasks, streaming output
 - 18/03/2024: added logging, storing all requests and responses, system prompts, into an HTML file, stored in iCloud Shortcuts folder
 - 17/03/2024: initial version with Groq
