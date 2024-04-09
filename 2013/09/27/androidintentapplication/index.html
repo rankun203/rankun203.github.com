@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="generator" content="Hexo 3.9.0">
+  <meta charset="utf-8">
+  
+  <title>Android Activity之间传递数据 | I&#39;m Kun</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="Android在Activity间传递数据的方法有以下几种###使用Intent绑定内容  在一个类里面调用intent.putExtra(tagString, ctn)存入数据。 在启动后的Activity里面调用传进来的intent的intent.getStringExtra(tagString)方法来获取数据（存什么类型就用什么类型获取）。 在另一个Activity里面使用getIntent">
+<meta name="keywords" content="Android,Activity,Learning Android">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Android Activity之间传递数据">
+<meta property="og:url" content="https://blog.rankun.net/2013/09/27/androidintentapplication/index.html">
+<meta property="og:site_name" content="I&#39;m Kun">
+<meta property="og:description" content="Android在Activity间传递数据的方法有以下几种###使用Intent绑定内容  在一个类里面调用intent.putExtra(tagString, ctn)存入数据。 在启动后的Activity里面调用传进来的intent的intent.getStringExtra(tagString)方法来获取数据（存什么类型就用什么类型获取）。 在另一个Activity里面使用getIntent">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:updated_time" content="2024-04-09T13:58:47.443Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Android Activity之间传递数据">
+<meta name="twitter:description" content="Android在Activity间传递数据的方法有以下几种###使用Intent绑定内容  在一个类里面调用intent.putExtra(tagString, ctn)存入数据。 在启动后的Activity里面调用传进来的intent的intent.getStringExtra(tagString)方法来获取数据（存什么类型就用什么类型获取）。 在另一个Activity里面使用getIntent">
+  
+    <link rel="alternative" href="/atom.xml" title="I&#39;m Kun" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  <link href="/css/fonts/Source+Code+Pro.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/css/style.css">
+  
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-41971083-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+
+</head>
+</html>
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">I&#39;m Kun</a>
+      </h1>
+      
+        <h2 id="subtitle-wrap">
+          <a href="/" id="subtitle">Welcome to my playground</a>
+        </h2>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://blog.rankun.net"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-androidintentapplication" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2013/09/27/androidintentapplication/" class="article-date">
+  <time datetime="2013-09-27T16:22:00.000Z" itemprop="datePublished">9月 27 2013</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/android/">android</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      Android Activity之间传递数据
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h2 id="Android在Activity间传递数据的方法有以下几种"><a href="#Android在Activity间传递数据的方法有以下几种" class="headerlink" title="Android在Activity间传递数据的方法有以下几种"></a>Android在Activity间传递数据的方法有以下几种</h2><p>###使用Intent绑定内容</p>
+<ul>
+<li>在一个类里面调用<a href="https://developer.android.com/reference/android/content/Intent.html#putExtra(java.lang.String,%20java.lang.String[])" target="_blank" rel="noopener"><code>intent.putExtra(tagString, ctn)</code></a>存入数据。</li>
+<li>在启动后的<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Activity.html" target="_blank" rel="noopener">Activity</a>里面调用传进来的intent的<a href="https://developer.android.com/reference/android/content/Intent.html#getStringExtra(java.lang.String)" target="_blank" rel="noopener"><code>intent.getStringExtra(tagString)</code></a>方法来获取数据（存什么类型就用什么类型获取）。<ul>
+<li>在另一个<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Activity.html" target="_blank" rel="noopener">Activity</a>里面使用<a href="https://developer.android.com/reference/android/app/Activity.html#getIntent()" target="_blank" rel="noopener"><code>getIntent()</code></a>来获取当前的<a href="https://developer.android.com/intl/zh-cn/reference/android/content/Intent.html" target="_blank" rel="noopener">Intent</a>。</li>
+</ul>
+</li>
+</ul>
+<p>###使用全局变量<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Application.html" target="_blank" rel="noopener"><code>Application</code></a></p>
+<ul>
+<li>创建一个Java类<code>MyApp</code>, 继承自<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Application.html" target="_blank" rel="noopener"><code>android.app.Application</code></a></li>
+<li>在<a href="https://developer.android.com/intl/zh-cn/guide/topics/manifest/manifest-intro.html" target="_blank" rel="noopener"><code>AndroidManifest.xml</code></a>里面指定<a href="https://developer.android.com/guide/topics/manifest/application-element.html" target="_blank" rel="noopener"><code>application</code></a>的<a href="https://developer.android.com/intl/zh-cn/guide/topics/manifest/application-element.html#nm" target="_blank" rel="noopener"><code>android:name</code></a>的值为刚刚创建的类</li>
+</ul>
+<p>这样无论在程序的什么地方用<a href="https://developer.android.com/reference/android/app/Service.html#getApplication()" target="_blank" rel="noopener"><code>getApplication()</code></a>方法拿到的<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Application.html" target="_blank" rel="noopener">Application</a>对象都是<code>MyApp</code>的实例（<em>准确的说是Application的实例，但明显就是一个MyApp，当然可以转成MyApp</em>）。</p>
+<p>如果在MyApp里面定义一些变量，再定义一些<code>getter</code>和<code>setter</code>，就可以在任何地方读取或设置这些全局变量。</p>
+<p>####示例代码</p>
+<p>#####<code>AndroidManifest.xml</code><br><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">application</span></span></span><br><span class="line"><span class="tag"><span class="attr">android:name</span>=<span class="string">"org.rankun.learn_intentapplication.MyApp"</span>&gt;</span></span><br><span class="line">...</span><br><span class="line"><span class="tag">&lt;<span class="name">activity</span>&gt;</span></span><br><span class="line">...</span><br><span class="line"><span class="tag">&lt;/<span class="name">activity</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">application</span>&gt;</span></span><br></pre></td></tr></table></figure></p>
+<p>#####<code>MyApp.java</code><br><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">MyApp</span> <span class="keyword">extends</span> <span class="title">Application</span> </span>&#123;</span><br><span class="line">		<span class="keyword">public</span> String attr;</span><br><span class="line">		<span class="comment">//...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p>#####<code>SomeActivity.java</code><br><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">MyApp myApp = (MyApp)getApplication();</span><br><span class="line">myApp.xxx();</span><br></pre></td></tr></table></figure></p>
+<a id="more"></a>
+<p>###使用剪切板<a href="https://developer.android.com/intl/zh-cn/reference/android/content/ClipboardManager.html" target="_blank" rel="noopener"><code>ClipboardManager</code></a></p>
+<ul>
+<li>在任意方法中使用<a href="https://developer.android.com/reference/android/content/Context.html#getSystemService(java.lang.String)" target="_blank" rel="noopener"><code>getSystemService(Context.CLIPBOARD_SERVICE)</code></a>获得<a href="https://developer.android.com/intl/zh-cn/reference/android/content/ClipboardManager.html" target="_blank" rel="noopener"><code>ClipboardManager</code></a>，然后调用其<a href="https://developer.android.com/reference/android/content/ClipboardManager.html#setPrimaryClip(android.content.ClipData)" target="_blank" rel="noopener"><code>setPrimaryClip(ClipData clip)</code></a>方法设置剪贴板的内容。<ul>
+<li>参数<a href="https://developer.android.com/intl/zh-cn/reference/android/content/ClipData.html" target="_blank" rel="noopener"><code>ClipData</code></a>可以通过<code>ClipData</code>的静态方法<code>ClipData.newPlainText(&quot;tag&quot;, &quot;string&quot;)</code>进行设置。</li>
+</ul>
+</li>
+<li>在想读取的地方拿到<a href="https://developer.android.com/intl/zh-cn/reference/android/content/ClipboardManager.html" target="_blank" rel="noopener"><code>ClipboardManager</code></a>后，调用<code>clipboardManager.getPrimaryClip().getItemAt(0).coerceToText(this).toString()</code>就可以拿到剪贴板的内容。</li>
+</ul>
+<p>####示例代码</p>
+<p>#####<code>OneActivity.java</code><br><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">String msg = <span class="string">"I'm 20."</span>;</span><br><span class="line">ClipboardManager clipboardManager = (ClipboardManager)getSystemService(Context.CLIPBOARD_SERVICE);</span><br><span class="line">clipboardManager.setPrimaryClip(ClipData.newPlainText(<span class="string">"msg"</span>, msg));</span><br></pre></td></tr></table></figure></p>
+<p>#####<code>AnotherActivity.java</code><br><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">ClipboardManager clipboardManager = (ClipboardManager)getSystemService(Context.CLIPBOARD_SERVICE);</span><br><span class="line">String str = clipboardManager.getPrimaryClip().getItemAt(<span class="number">0</span>).coerceToText(<span class="keyword">this</span>).toString();</span><br></pre></td></tr></table></figure></p>
+<p>###获取Activity的返回值</p>
+<ul>
+<li>在当前<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Activity.html" target="_blank" rel="noopener">Activity</a>中使用<a href="https://developer.android.com/reference/android/app/Activity.html#startActivityForResult(android.content.Intent,%20int)" target="_blank" rel="noopener"><code>startActivityForResult()</code></a>启动一个Activity，并添加一个<a href="https://developer.android.com/reference/android/app/Activity.html#onActivityResult(int,%20int,%20android.content.Intent)" target="_blank" rel="noopener"><code>onActivityResult()</code></a>方法来接收返回的数据。<ul>
+<li>在启动新的Activity时，传入的<a href="https://developer.android.com/intl/zh-cn/reference/android/content/Intent.html" target="_blank" rel="noopener">Intent</a>对象里面可以包含一些关于这次询问的信息，requestCode在自定义的<a href="https://developer.android.com/reference/android/app/Activity.html#onActivityResult(int,%20int,%20android.content.Intent)" target="_blank" rel="noopener"><code>onActivityResult()</code></a>方法中作为变量requestCode回传，这样，如果我们启动了多个ActivityForResult，就可以通过requestCode判断是哪一个ActivityForResult返回了。</li>
+</ul>
+</li>
+<li>在被调用的<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Activity.html" target="_blank" rel="noopener">Activity</a>中使用<a href="https://developer.android.com/reference/android/app/Activity.html#getIntent()" target="_blank" rel="noopener"><code>getIntent()</code></a>来获取启动这个<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Activity.html" target="_blank" rel="noopener">Activity</a>的<a href="https://developer.android.com/intl/zh-cn/reference/android/content/Intent.html" target="_blank" rel="noopener">Intent</a>，该<a href="https://developer.android.com/intl/zh-cn/reference/android/content/Intent.html" target="_blank" rel="noopener">Intent</a>应该包含了调用者传递过来的一些<a href="https://developer.android.com/reference/android/content/Intent.html#putExtra(java.lang.String,%20java.lang.String[])" target="_blank" rel="noopener">putExtra信息</a>。</li>
+<li>被调用的<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Activity.html" target="_blank" rel="noopener">Activity</a>在处理好结果准备返回。<ul>
+<li>创建一个用来返回的<a href="https://developer.android.com/intl/zh-cn/reference/android/content/Intent.html" target="_blank" rel="noopener">Intent</a></li>
+<li>将要返回的数据<a href="https://developer.android.com/reference/android/content/Intent.html#putExtra(java.lang.String,%20java.lang.String[])" target="_blank" rel="noopener">putExtra</a>在这个Intent中</li>
+<li>调用当前Activity的<a href="https://developer.android.com/reference/android/app/Activity.html#setResult(int)" target="_blank" rel="noopener"><code>setResult()</code></a>方法设置resultCode和用来返回的Intent</li>
+<li>调用当前Activity的<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Activity.html#finish()" target="_blank" rel="noopener"><code>finish()</code></a>方法结束本Activity的生命周期，结果将会被返回到调用这个Activity的Activity</li>
+</ul>
+</li>
+<li>主调Activity的<a href="https://developer.android.com/reference/android/app/Activity.html#onActivityResult(int,%20int,%20android.content.Intent)" target="_blank" rel="noopener"><code>onActivityResult</code></a>方法触发之后，需要的数据已经包含在传入的Intent中<ul>
+<li>可以通过判断requestCode来确定是哪一个ActivityForResult返回了</li>
+<li><blockquote>
+<p>resultCode    The result code to propagate back to the originating activity, often RESULT_CANCELED or RESULT_OK</p>
+</blockquote>
+</li>
+<li>可以从Intent对象中获取返回的数据</li>
+</ul>
+</li>
+</ul>
+<p>####示例代码</p>
+<p>#####<code>MainActivity.java</code><br><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//例如可以用某个按钮的onClick事件触发这个方法运行</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">queryRes</span><span class="params">(View view)</span> </span>&#123;</span><br><span class="line">	EditText et1 = (EditText) findViewById(R.id.et1);</span><br><span class="line">	String qesString = et1.getText().toString();</span><br><span class="line">	Intent other = <span class="keyword">new</span> Intent(<span class="keyword">this</span>, OtherActivity<span class="class">.<span class="keyword">class</span>)</span>;</span><br><span class="line">	other.putExtra(<span class="string">"qes"</span>, qesString);</span><br><span class="line">	startActivityForResult(other, <span class="number">5</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p><div style="text-align:center;font-size:40px;">↓</div></p>
+<p>#####<code>OtherActivity.java</code><br><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">protected</span> <span class="keyword">void</span> <span class="title">onCreate</span><span class="params">(Bundle savedInstanceState)</span> </span>&#123;</span><br><span class="line">	<span class="keyword">super</span>.onCreate(savedInstanceState);</span><br><span class="line">	setContentView(R.layout.other);</span><br><span class="line"></span><br><span class="line">	<span class="comment">//解析传来的数据</span></span><br><span class="line">	Intent requestIntent = getIntent();</span><br><span class="line">	String qes = requestIntent.getStringExtra(<span class="string">"qes"</span>);</span><br><span class="line">	((TextView)findViewById(R.id.qes)).setText(qes);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//例如可以用某个按钮的onClick事件触发这个方法运行</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">procAndRtn</span><span class="params">(View view)</span> </span>&#123;</span><br><span class="line">	String ansString = ((EditText)findViewById(R.id.otheractivity_et_1)).getText().toString();</span><br><span class="line">	Intent rtnIntent = <span class="keyword">new</span> Intent(<span class="keyword">this</span>, MainActivity<span class="class">.<span class="keyword">class</span>)</span>;</span><br><span class="line">	rtnIntent.putExtra(<span class="string">"ans"</span>, ansString);</span><br><span class="line">	setResult(RESULT_OK, rtnIntent);</span><br><span class="line">	finish();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p><div style="text-align:center;font-size:40px;">↓</div></p>
+<p>#####<code>MainActivity.java</code><br><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//5, 6, data</span></span><br><span class="line"><span class="function"><span class="keyword">protected</span> <span class="keyword">void</span> <span class="title">onActivityResult</span><span class="params">(<span class="keyword">int</span> requestCode, <span class="keyword">int</span> resultCode, Intent data)</span> </span>&#123;</span><br><span class="line">	<span class="keyword">super</span>.onActivityResult(requestCode, resultCode, data);</span><br><span class="line">	<span class="keyword">if</span>(resultCode == RESULT_OK) &#123;</span><br><span class="line">		<span class="keyword">if</span>(requestCode == <span class="number">5</span>) &#123;</span><br><span class="line">			String ans = data.getStringExtra(<span class="string">"ans"</span>);</span><br><span class="line">			TextView tv = (TextView)findViewById(R.id.main_activity_ans_tv);</span><br><span class="line">			tv.setText(ans);</span><br><span class="line">		&#125;</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://blog.rankun.net/2013/09/27/androidintentapplication/" data-id="clusg6f9e0008e5nhj99yubkp" class="article-share-link">Share</a>
+      
+        <a href="https://blog.rankun.net/2013/09/27/androidintentapplication/#disqus_thread" class="article-comment-link">Comments</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Activity/">Activity</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Android/">Android</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Learning-Android/">Learning Android</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2013/10/03/bestissimple/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          大道至简，亦至繁
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2013/09/24/measurearea/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">测量面积的工具</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+
+<section id="comments">
+  <div id="disqus_thread">
+    <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </div>
+</section>
+</section>
+        
+          <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Colnect/">Colnect</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/android/">android</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/art/">art</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/chrome/">chrome</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/docker/">docker</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/explorer/">explorer</a><span class="category-list-count">5</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/groovy/">groovy</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/ideas/">ideas</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/java/">java</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/life/">life</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/life/riding/">riding</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/linux/">linux</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/node-js/">node.js</a><span class="category-list-count">5</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/node-js/note/">note</a><span class="category-list-count">5</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/octopress/">octopress</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/productivity/">productivity</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/webmaster/">webmaster</a><span class="category-list-count">1</span></li></ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tags</h3>
+    <div class="widget">
+      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/318/">318</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Activity/">Activity</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Android/">Android</a><span class="tag-list-count">3</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Bitcoin/">Bitcoin</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/BlockChain/">BlockChain</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Chrome/">Chrome</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Coinbase/">Coinbase</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Colnect/">Colnect</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Concatenate-Videos/">Concatenate Videos</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Convert-Videos/">Convert Videos</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cycling/">Cycling</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Debian/">Debian</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Dictionary/">Dictionary</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/FFMPEG/">FFMPEG</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/GFW/">GFW</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Git/">Git</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Groovy/">Groovy</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Java/">Java</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Learning-Android/">Learning Android</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Learning-Python/">Learning Python</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Liberty/">Liberty</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Linux/">Linux</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Marketing/">Marketing</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Mplayer/">Mplayer</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Network-Marketing/">Network Marketing</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Octopress/">Octopress</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Python/">Python</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Raspberry-Pi/">Raspberry Pi</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Recruit/">Recruit</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Sensors/">Sensors</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Shell/">Shell</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Tibet/">Tibet</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Video-Streaming/">Video Streaming</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/View/">View</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/YouTube/">YouTube</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/automation/">automation</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/autossh/">autossh</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/business/">business</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/chrome/">chrome</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/container/">container</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/docker/">docker</a><span class="tag-list-count">3</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/friends/">friends</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/gfw/">gfw</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/github/">github</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/google/">google</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/google-drive/">google-drive</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/google-fonts/">google-fonts</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/http-proxy/">http-proxy</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/internet/">internet</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/javascript/">javascript</a><span class="tag-list-count">5</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/life/">life</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/mongoose/">mongoose</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/nginx/">nginx</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/node-js/">node.js</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/note/">note</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/osx/">osx</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/php/">php</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/plugin/">plugin</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/polipo/">polipo</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/port-forwarding/">port-forwarding</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/proxy/">proxy</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/shortcuts/">shortcuts</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ssh/">ssh</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ssh-tunnel/">ssh-tunnel</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/sshfs/">sshfs</a><span class="tag-list-count">3</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/web-fonts/">web-fonts</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/work/">work</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/水墨画/">水墨画</a><span class="tag-list-count">1</span></li></ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/318/" style="font-size: 10px;">318</a> <a href="/tags/Activity/" style="font-size: 10px;">Activity</a> <a href="/tags/Android/" style="font-size: 15px;">Android</a> <a href="/tags/Bitcoin/" style="font-size: 10px;">Bitcoin</a> <a href="/tags/BlockChain/" style="font-size: 10px;">BlockChain</a> <a href="/tags/Chrome/" style="font-size: 10px;">Chrome</a> <a href="/tags/Coinbase/" style="font-size: 10px;">Coinbase</a> <a href="/tags/Colnect/" style="font-size: 10px;">Colnect</a> <a href="/tags/Concatenate-Videos/" style="font-size: 10px;">Concatenate Videos</a> <a href="/tags/Convert-Videos/" style="font-size: 10px;">Convert Videos</a> <a href="/tags/Cycling/" style="font-size: 10px;">Cycling</a> <a href="/tags/Debian/" style="font-size: 10px;">Debian</a> <a href="/tags/Dictionary/" style="font-size: 10px;">Dictionary</a> <a href="/tags/FFMPEG/" style="font-size: 10px;">FFMPEG</a> <a href="/tags/GFW/" style="font-size: 10px;">GFW</a> <a href="/tags/Git/" style="font-size: 10px;">Git</a> <a href="/tags/Groovy/" style="font-size: 10px;">Groovy</a> <a href="/tags/Java/" style="font-size: 12.5px;">Java</a> <a href="/tags/Learning-Android/" style="font-size: 12.5px;">Learning Android</a> <a href="/tags/Learning-Python/" style="font-size: 10px;">Learning Python</a> <a href="/tags/Liberty/" style="font-size: 10px;">Liberty</a> <a href="/tags/Linux/" style="font-size: 12.5px;">Linux</a> <a href="/tags/Marketing/" style="font-size: 10px;">Marketing</a> <a href="/tags/Mplayer/" style="font-size: 10px;">Mplayer</a> <a href="/tags/Network-Marketing/" style="font-size: 10px;">Network Marketing</a> <a href="/tags/Octopress/" style="font-size: 10px;">Octopress</a> <a href="/tags/Python/" style="font-size: 10px;">Python</a> <a href="/tags/Raspberry-Pi/" style="font-size: 10px;">Raspberry Pi</a> <a href="/tags/Recruit/" style="font-size: 10px;">Recruit</a> <a href="/tags/Sensors/" style="font-size: 10px;">Sensors</a> <a href="/tags/Shell/" style="font-size: 10px;">Shell</a> <a href="/tags/Tibet/" style="font-size: 10px;">Tibet</a> <a href="/tags/Video-Streaming/" style="font-size: 10px;">Video Streaming</a> <a href="/tags/View/" style="font-size: 10px;">View</a> <a href="/tags/YouTube/" style="font-size: 10px;">YouTube</a> <a href="/tags/automation/" style="font-size: 10px;">automation</a> <a href="/tags/autossh/" style="font-size: 10px;">autossh</a> <a href="/tags/business/" style="font-size: 10px;">business</a> <a href="/tags/chrome/" style="font-size: 10px;">chrome</a> <a href="/tags/container/" style="font-size: 10px;">container</a> <a href="/tags/docker/" style="font-size: 15px;">docker</a> <a href="/tags/friends/" style="font-size: 10px;">friends</a> <a href="/tags/gfw/" style="font-size: 10px;">gfw</a> <a href="/tags/github/" style="font-size: 10px;">github</a> <a href="/tags/google/" style="font-size: 12.5px;">google</a> <a href="/tags/google-drive/" style="font-size: 10px;">google-drive</a> <a href="/tags/google-fonts/" style="font-size: 10px;">google-fonts</a> <a href="/tags/http-proxy/" style="font-size: 10px;">http-proxy</a> <a href="/tags/internet/" style="font-size: 10px;">internet</a> <a href="/tags/javascript/" style="font-size: 20px;">javascript</a> <a href="/tags/life/" style="font-size: 12.5px;">life</a> <a href="/tags/mongoose/" style="font-size: 10px;">mongoose</a> <a href="/tags/nginx/" style="font-size: 10px;">nginx</a> <a href="/tags/node-js/" style="font-size: 17.5px;">node.js</a> <a href="/tags/note/" style="font-size: 17.5px;">note</a> <a href="/tags/osx/" style="font-size: 12.5px;">osx</a> <a href="/tags/php/" style="font-size: 10px;">php</a> <a href="/tags/plugin/" style="font-size: 10px;">plugin</a> <a href="/tags/polipo/" style="font-size: 10px;">polipo</a> <a href="/tags/port-forwarding/" style="font-size: 10px;">port-forwarding</a> <a href="/tags/proxy/" style="font-size: 10px;">proxy</a> <a href="/tags/shortcuts/" style="font-size: 10px;">shortcuts</a> <a href="/tags/ssh/" style="font-size: 12.5px;">ssh</a> <a href="/tags/ssh-tunnel/" style="font-size: 12.5px;">ssh-tunnel</a> <a href="/tags/sshfs/" style="font-size: 15px;">sshfs</a> <a href="/tags/web-fonts/" style="font-size: 10px;">web-fonts</a> <a href="/tags/work/" style="font-size: 10px;">work</a> <a href="/tags/水墨画/" style="font-size: 10px;">水墨画</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/03/">三月 2024</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2023/06/">六月 2023</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2022/09/">九月 2022</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/05/">五月 2021</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/12/">十二月 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/04/">四月 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/03/">三月 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/01/">一月 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/09/">九月 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/08/">八月 2015</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/07/">七月 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/06/">六月 2015</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/08/">八月 2014</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/04/">四月 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/02/">二月 2014</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/12/">十二月 2013</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/10/">十月 2013</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/09/">九月 2013</a><span class="archive-list-count">5</span></li></ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recents</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2024/03/17/explain_ask_proofread/">Apple Shortcuts to boost your reading performance</a>
+          </li>
+        
+          <li>
+            <a href="/2023/06/14/readnow-privacy-policy/">(no title)</a>
+          </li>
+        
+          <li>
+            <a href="/2022/09/25/on-water-wang-mu-yu/">Water 王牧羽</a>
+          </li>
+        
+          <li>
+            <a href="/2021/05/03/Jimmy-and-his-new-space/">Give everything you have and watch the ripples</a>
+          </li>
+        
+          <li>
+            <a href="/2019/12/20/New-start-in-shanghai/">New Start in Shanghai</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2024 Kun Ran<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+<script>
+  var disqus_shortname = 'blogrankun';
+  
+  var disqus_url = 'https://blog.rankun.net/2013/09/27/androidintentapplication/';
+  
+  (function(){
+    var dsq = document.createElement('script');
+    dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//go.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+
+
+<script src="//libs.baidu.com/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+<script src="/js/script.js"></script>
+
+  </div>
+</body>
+</html>

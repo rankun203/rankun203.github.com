@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="generator" content="Hexo 3.9.0">
+  <meta charset="utf-8">
+  
+  <title>Tag: Android | I&#39;m Kun</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta property="og:type" content="website">
+<meta property="og:title" content="I&#39;m Kun">
+<meta property="og:url" content="https://blog.rankun.net/tags/Android/index.html">
+<meta property="og:site_name" content="I&#39;m Kun">
+<meta property="og:locale" content="zh_CN">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="I&#39;m Kun">
+  
+    <link rel="alternative" href="/atom.xml" title="I&#39;m Kun" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  <link href="/css/fonts/Source+Code+Pro.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/css/style.css">
+  
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-41971083-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+
+</head>
+</html>
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">I&#39;m Kun</a>
+      </h1>
+      
+        <h2 id="subtitle-wrap">
+          <a href="/" id="subtitle">Welcome to my playground</a>
+        </h2>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://blog.rankun.net"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main">
+  
+    <article id="post-bestissimple" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2013/10/03/bestissimple/" class="article-date">
+  <time datetime="2013-10-03T23:49:00.000Z" itemprop="datePublished">10月 3 2013</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/linux/">linux</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2013/10/03/bestissimple/">大道至简，亦至繁</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>从什么时候，我感觉使用Linux就是个悲剧了呢？或许很早就感觉到了。</p>
+<p>其实我很喜欢现在这样，命令行也可以让好多事情变得简单，比如，装个软件，用命令行只要打一行字母，软件就装好了，在Windows下面要去下载，然后一堆安装向导，还要时刻小心被坑。</p>
+<p>调试手机的时候也方便了，不用安装驱动，Linux本身就是可以识别Android的，插上就有了。在Windows下面起码得下个豌豆荚什么的，点半天才能识别手机。</p>
+<p>直到某一天，在Linux下面安装一个软件出了问题，妈呀这简直就是晴天霹雳，我准备吃午饭的啊！！翻阅大量资料，看别人的问答，花去半天时间，找到问题了，改了一下，安装好了，在Windows下还是点一阵向导，也安装好了。</p>
+<p>再来就是某一天，这破Linux不认识我的手机了！不是可以免驱动吗？靠，去/etc/udev/rules.d/下面创建一个usb的配置文件，重启usb服务，再去.android下面修改一下SDK的识别配置，把自己手机的识别码加上去。在Windows下面还是安装了一个豌豆荚，按了一会儿搞定了。所谓大道至简，你别认真，你一认真这句简单的话解释起来比宇宙形成还复杂。</p>
+<p><img src="/images/2013-10-03-bestissimple/2013-10-03-errors.1.png" alt="错误错误错误错误"></p>
+<p>尼玛，当今天晚上我升级了Android SDK，重新生成了Android的第三方Vendor标识文件，我手机又连不上了，当我重新添加了手机的ID之后，奇迹发生了，还是找不到。。。</p>
+<blockquote>
+<p>2013-10-4更新：原来是adb_usb.ini里面添加手机ID的时候，忘了添加0x，即应该添加的是0x2717。之前真是没注意，就是凭记忆填了填。</p>
+</blockquote>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://blog.rankun.net/2013/10/03/bestissimple/" data-id="clusg6f9f000be5nhuw6p7b75" class="article-share-link">Share</a>
+      
+        <a href="https://blog.rankun.net/2013/10/03/bestissimple/#disqus_thread" class="article-comment-link">Comments</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Android/">Android</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Learning-Android/">Learning Android</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Linux/">Linux</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+  
+    <article id="post-androidintentapplication" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2013/09/27/androidintentapplication/" class="article-date">
+  <time datetime="2013-09-27T16:22:00.000Z" itemprop="datePublished">9月 27 2013</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/android/">android</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2013/09/27/androidintentapplication/">Android Activity之间传递数据</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h2 id="Android在Activity间传递数据的方法有以下几种"><a href="#Android在Activity间传递数据的方法有以下几种" class="headerlink" title="Android在Activity间传递数据的方法有以下几种"></a>Android在Activity间传递数据的方法有以下几种</h2><p>###使用Intent绑定内容</p>
+<ul>
+<li>在一个类里面调用<a href="https://developer.android.com/reference/android/content/Intent.html#putExtra(java.lang.String,%20java.lang.String[])" target="_blank" rel="noopener"><code>intent.putExtra(tagString, ctn)</code></a>存入数据。</li>
+<li>在启动后的<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Activity.html" target="_blank" rel="noopener">Activity</a>里面调用传进来的intent的<a href="https://developer.android.com/reference/android/content/Intent.html#getStringExtra(java.lang.String)" target="_blank" rel="noopener"><code>intent.getStringExtra(tagString)</code></a>方法来获取数据（存什么类型就用什么类型获取）。<ul>
+<li>在另一个<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Activity.html" target="_blank" rel="noopener">Activity</a>里面使用<a href="https://developer.android.com/reference/android/app/Activity.html#getIntent()" target="_blank" rel="noopener"><code>getIntent()</code></a>来获取当前的<a href="https://developer.android.com/intl/zh-cn/reference/android/content/Intent.html" target="_blank" rel="noopener">Intent</a>。</li>
+</ul>
+</li>
+</ul>
+<p>###使用全局变量<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Application.html" target="_blank" rel="noopener"><code>Application</code></a></p>
+<ul>
+<li>创建一个Java类<code>MyApp</code>, 继承自<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Application.html" target="_blank" rel="noopener"><code>android.app.Application</code></a></li>
+<li>在<a href="https://developer.android.com/intl/zh-cn/guide/topics/manifest/manifest-intro.html" target="_blank" rel="noopener"><code>AndroidManifest.xml</code></a>里面指定<a href="https://developer.android.com/guide/topics/manifest/application-element.html" target="_blank" rel="noopener"><code>application</code></a>的<a href="https://developer.android.com/intl/zh-cn/guide/topics/manifest/application-element.html#nm" target="_blank" rel="noopener"><code>android:name</code></a>的值为刚刚创建的类</li>
+</ul>
+<p>这样无论在程序的什么地方用<a href="https://developer.android.com/reference/android/app/Service.html#getApplication()" target="_blank" rel="noopener"><code>getApplication()</code></a>方法拿到的<a href="https://developer.android.com/intl/zh-cn/reference/android/app/Application.html" target="_blank" rel="noopener">Application</a>对象都是<code>MyApp</code>的实例（<em>准确的说是Application的实例，但明显就是一个MyApp，当然可以转成MyApp</em>）。</p>
+<p>如果在MyApp里面定义一些变量，再定义一些<code>getter</code>和<code>setter</code>，就可以在任何地方读取或设置这些全局变量。</p>
+<p>####示例代码</p>
+<p>#####<code>AndroidManifest.xml</code><br><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">application</span></span></span><br><span class="line"><span class="tag"><span class="attr">android:name</span>=<span class="string">"org.rankun.learn_intentapplication.MyApp"</span>&gt;</span></span><br><span class="line">...</span><br><span class="line"><span class="tag">&lt;<span class="name">activity</span>&gt;</span></span><br><span class="line">...</span><br><span class="line"><span class="tag">&lt;/<span class="name">activity</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">application</span>&gt;</span></span><br></pre></td></tr></table></figure></p>
+<p>#####<code>MyApp.java</code><br><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">MyApp</span> <span class="keyword">extends</span> <span class="title">Application</span> </span>&#123;</span><br><span class="line">		<span class="keyword">public</span> String attr;</span><br><span class="line">		<span class="comment">//...</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<p>#####<code>SomeActivity.java</code><br><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">MyApp myApp = (MyApp)getApplication();</span><br><span class="line">myApp.xxx();</span><br></pre></td></tr></table></figure></p>
+        
+          <p class="article-more-link">
+            <a href="/2013/09/27/androidintentapplication/#more">Read More</a>
+          </p>
+        
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://blog.rankun.net/2013/09/27/androidintentapplication/" data-id="clusg6f9e0008e5nhj99yubkp" class="article-share-link">Share</a>
+      
+        <a href="https://blog.rankun.net/2013/09/27/androidintentapplication/#disqus_thread" class="article-comment-link">Comments</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Activity/">Activity</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Android/">Android</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Learning-Android/">Learning Android</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+  
+    <article id="post-measurearea" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2013/09/24/measurearea/" class="article-date">
+  <time datetime="2013-09-24T08:41:00.000Z" itemprop="datePublished">9月 24 2013</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/ideas/">ideas</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2013/09/24/measurearea/">测量面积的工具</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>一个还没正式开始就被技术上劝下来的项目，曾经花了我很多时间来设想，下载了好几个相关传感器的Demo。</p>
+<p>之前的基本构思是，通过加速度计(重力感应使用的传感器)，获取瞬时加速度，通过不断的积分而获得当前速度，然后计算距离，然后绘制行动路径的多边形，然后计算面积。</p>
+<p>致命缺点：由于速度经过积分而产生，定位误差随时间而增大，长期精度差；手机上面的加速度计本来精度就低，测量加速度的时候还要受重力加速度影响，通过一次卡尔曼(Kalman Filter)过滤，数据已经完全不能用来再计算速度了，已经废了，我还以为我们要怎么忙怎么忙，怎么辛苦做这个东西呢，结果根本就不能做。。</p>
+<p>反正，不是因为这个不可能，而是因为设备精度太低，惯性导航仅被用在飞机等高造价的设备上。</p>
+<p>下面是一些相关资料</p>
+<ul>
+<li><a href="https://developer.android.com/intl/zh-cn/guide/topics/sensors/sensors_motion.html" target="_blank" rel="noopener">Android Developers - Motion Sensors</a></li>
+<li><a href="http://stackoverflow.com/questions/10921395/using-accelerometer-to-calculate-speeds" target="_blank" rel="noopener">StackOverflow - using-accelerometer-to-calculate-speeds</a></li>
+<li><a href="http://ds.reddit.com/r/Android/comments/1ibwmg/sensor_fusion_algorithm_for_inertial_navigation/" target="_blank" rel="noopener">reddit - sensor_fusion_algorithm_for_inertial_navigation</a></li>
+<li><a href="http://zh.wikipedia.org/wiki/卡尔曼滤波" target="_blank" rel="noopener">Wikipedia 卡夫曼滤波</a></li>
+</ul>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://blog.rankun.net/2013/09/24/measurearea/" data-id="clusg6f9d0007e5nhn5zn9d2b" class="article-share-link">Share</a>
+      
+        <a href="https://blog.rankun.net/2013/09/24/measurearea/#disqus_thread" class="article-comment-link">Comments</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Android/">Android</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Sensors/">Sensors</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+  
+  
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Colnect/">Colnect</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/android/">android</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/art/">art</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/chrome/">chrome</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/docker/">docker</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/explorer/">explorer</a><span class="category-list-count">5</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/groovy/">groovy</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/ideas/">ideas</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/java/">java</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/life/">life</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/life/riding/">riding</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/linux/">linux</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/node-js/">node.js</a><span class="category-list-count">5</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/node-js/note/">note</a><span class="category-list-count">5</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/octopress/">octopress</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/productivity/">productivity</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/webmaster/">webmaster</a><span class="category-list-count">1</span></li></ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tags</h3>
+    <div class="widget">
+      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/318/">318</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Activity/">Activity</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Android/">Android</a><span class="tag-list-count">3</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Bitcoin/">Bitcoin</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/BlockChain/">BlockChain</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Chrome/">Chrome</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Coinbase/">Coinbase</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Colnect/">Colnect</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Concatenate-Videos/">Concatenate Videos</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Convert-Videos/">Convert Videos</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cycling/">Cycling</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Debian/">Debian</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Dictionary/">Dictionary</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/FFMPEG/">FFMPEG</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/GFW/">GFW</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Git/">Git</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Groovy/">Groovy</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Java/">Java</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Learning-Android/">Learning Android</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Learning-Python/">Learning Python</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Liberty/">Liberty</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Linux/">Linux</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Marketing/">Marketing</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Mplayer/">Mplayer</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Network-Marketing/">Network Marketing</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Octopress/">Octopress</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Python/">Python</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Raspberry-Pi/">Raspberry Pi</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Recruit/">Recruit</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Sensors/">Sensors</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Shell/">Shell</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Tibet/">Tibet</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Video-Streaming/">Video Streaming</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/View/">View</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/YouTube/">YouTube</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/automation/">automation</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/autossh/">autossh</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/business/">business</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/chrome/">chrome</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/container/">container</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/docker/">docker</a><span class="tag-list-count">3</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/friends/">friends</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/gfw/">gfw</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/github/">github</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/google/">google</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/google-drive/">google-drive</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/google-fonts/">google-fonts</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/http-proxy/">http-proxy</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/internet/">internet</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/javascript/">javascript</a><span class="tag-list-count">5</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/life/">life</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/mongoose/">mongoose</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/nginx/">nginx</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/node-js/">node.js</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/note/">note</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/osx/">osx</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/php/">php</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/plugin/">plugin</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/polipo/">polipo</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/port-forwarding/">port-forwarding</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/proxy/">proxy</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/shortcuts/">shortcuts</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ssh/">ssh</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ssh-tunnel/">ssh-tunnel</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/sshfs/">sshfs</a><span class="tag-list-count">3</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/web-fonts/">web-fonts</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/work/">work</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/水墨画/">水墨画</a><span class="tag-list-count">1</span></li></ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/318/" style="font-size: 10px;">318</a> <a href="/tags/Activity/" style="font-size: 10px;">Activity</a> <a href="/tags/Android/" style="font-size: 15px;">Android</a> <a href="/tags/Bitcoin/" style="font-size: 10px;">Bitcoin</a> <a href="/tags/BlockChain/" style="font-size: 10px;">BlockChain</a> <a href="/tags/Chrome/" style="font-size: 10px;">Chrome</a> <a href="/tags/Coinbase/" style="font-size: 10px;">Coinbase</a> <a href="/tags/Colnect/" style="font-size: 10px;">Colnect</a> <a href="/tags/Concatenate-Videos/" style="font-size: 10px;">Concatenate Videos</a> <a href="/tags/Convert-Videos/" style="font-size: 10px;">Convert Videos</a> <a href="/tags/Cycling/" style="font-size: 10px;">Cycling</a> <a href="/tags/Debian/" style="font-size: 10px;">Debian</a> <a href="/tags/Dictionary/" style="font-size: 10px;">Dictionary</a> <a href="/tags/FFMPEG/" style="font-size: 10px;">FFMPEG</a> <a href="/tags/GFW/" style="font-size: 10px;">GFW</a> <a href="/tags/Git/" style="font-size: 10px;">Git</a> <a href="/tags/Groovy/" style="font-size: 10px;">Groovy</a> <a href="/tags/Java/" style="font-size: 12.5px;">Java</a> <a href="/tags/Learning-Android/" style="font-size: 12.5px;">Learning Android</a> <a href="/tags/Learning-Python/" style="font-size: 10px;">Learning Python</a> <a href="/tags/Liberty/" style="font-size: 10px;">Liberty</a> <a href="/tags/Linux/" style="font-size: 12.5px;">Linux</a> <a href="/tags/Marketing/" style="font-size: 10px;">Marketing</a> <a href="/tags/Mplayer/" style="font-size: 10px;">Mplayer</a> <a href="/tags/Network-Marketing/" style="font-size: 10px;">Network Marketing</a> <a href="/tags/Octopress/" style="font-size: 10px;">Octopress</a> <a href="/tags/Python/" style="font-size: 10px;">Python</a> <a href="/tags/Raspberry-Pi/" style="font-size: 10px;">Raspberry Pi</a> <a href="/tags/Recruit/" style="font-size: 10px;">Recruit</a> <a href="/tags/Sensors/" style="font-size: 10px;">Sensors</a> <a href="/tags/Shell/" style="font-size: 10px;">Shell</a> <a href="/tags/Tibet/" style="font-size: 10px;">Tibet</a> <a href="/tags/Video-Streaming/" style="font-size: 10px;">Video Streaming</a> <a href="/tags/View/" style="font-size: 10px;">View</a> <a href="/tags/YouTube/" style="font-size: 10px;">YouTube</a> <a href="/tags/automation/" style="font-size: 10px;">automation</a> <a href="/tags/autossh/" style="font-size: 10px;">autossh</a> <a href="/tags/business/" style="font-size: 10px;">business</a> <a href="/tags/chrome/" style="font-size: 10px;">chrome</a> <a href="/tags/container/" style="font-size: 10px;">container</a> <a href="/tags/docker/" style="font-size: 15px;">docker</a> <a href="/tags/friends/" style="font-size: 10px;">friends</a> <a href="/tags/gfw/" style="font-size: 10px;">gfw</a> <a href="/tags/github/" style="font-size: 10px;">github</a> <a href="/tags/google/" style="font-size: 12.5px;">google</a> <a href="/tags/google-drive/" style="font-size: 10px;">google-drive</a> <a href="/tags/google-fonts/" style="font-size: 10px;">google-fonts</a> <a href="/tags/http-proxy/" style="font-size: 10px;">http-proxy</a> <a href="/tags/internet/" style="font-size: 10px;">internet</a> <a href="/tags/javascript/" style="font-size: 20px;">javascript</a> <a href="/tags/life/" style="font-size: 12.5px;">life</a> <a href="/tags/mongoose/" style="font-size: 10px;">mongoose</a> <a href="/tags/nginx/" style="font-size: 10px;">nginx</a> <a href="/tags/node-js/" style="font-size: 17.5px;">node.js</a> <a href="/tags/note/" style="font-size: 17.5px;">note</a> <a href="/tags/osx/" style="font-size: 12.5px;">osx</a> <a href="/tags/php/" style="font-size: 10px;">php</a> <a href="/tags/plugin/" style="font-size: 10px;">plugin</a> <a href="/tags/polipo/" style="font-size: 10px;">polipo</a> <a href="/tags/port-forwarding/" style="font-size: 10px;">port-forwarding</a> <a href="/tags/proxy/" style="font-size: 10px;">proxy</a> <a href="/tags/shortcuts/" style="font-size: 10px;">shortcuts</a> <a href="/tags/ssh/" style="font-size: 12.5px;">ssh</a> <a href="/tags/ssh-tunnel/" style="font-size: 12.5px;">ssh-tunnel</a> <a href="/tags/sshfs/" style="font-size: 15px;">sshfs</a> <a href="/tags/web-fonts/" style="font-size: 10px;">web-fonts</a> <a href="/tags/work/" style="font-size: 10px;">work</a> <a href="/tags/水墨画/" style="font-size: 10px;">水墨画</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/03/">三月 2024</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2023/06/">六月 2023</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2022/09/">九月 2022</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/05/">五月 2021</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/12/">十二月 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/04/">四月 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/03/">三月 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/01/">一月 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/09/">九月 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/08/">八月 2015</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/07/">七月 2015</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/06/">六月 2015</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/08/">八月 2014</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/04/">四月 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2014/02/">二月 2014</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/12/">十二月 2013</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/10/">十月 2013</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/09/">九月 2013</a><span class="archive-list-count">5</span></li></ul>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recents</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2024/03/17/explain_ask_proofread/">Apple Shortcuts to boost your reading performance</a>
+          </li>
+        
+          <li>
+            <a href="/2023/06/14/readnow-privacy-policy/">(no title)</a>
+          </li>
+        
+          <li>
+            <a href="/2022/09/25/on-water-wang-mu-yu/">Water 王牧羽</a>
+          </li>
+        
+          <li>
+            <a href="/2021/05/03/Jimmy-and-his-new-space/">Give everything you have and watch the ripples</a>
+          </li>
+        
+          <li>
+            <a href="/2019/12/20/New-start-in-shanghai/">New Start in Shanghai</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2024 Kun Ran<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+<script>
+  var disqus_shortname = 'blogrankun';
+  
+  (function(){
+    var dsq = document.createElement('script');
+    dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//go.disqus.com/count.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+
+
+<script src="//libs.baidu.com/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+<script src="/js/script.js"></script>
+
+  </div>
+</body>
+</html>
