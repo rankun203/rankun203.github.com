@@ -13,7 +13,7 @@
 <meta property="og:site_name" content="I&#39;m Kun">
 <meta property="og:description" content="I still find this a bit surreal to write: our team ended up winning two international RAG competitions in one year. First, we won the SIGIR 2025 LiveRAG Challenge. Later, at NeurIPS 2025 MMU-RAG, our">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:updated_time" content="2026-03-25T09:28:26.421Z">
+<meta property="og:updated_time" content="2026-03-25T09:33:53.222Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Two RAG wins in one year: LiveRAG and MMU-RAG">
 <meta name="twitter:description" content="I still find this a bit surreal to write: our team ended up winning two international RAG competitions in one year. First, we won the SIGIR 2025 LiveRAG Challenge. Later, at NeurIPS 2025 MMU-RAG, our">
@@ -114,11 +114,11 @@ ga('send', 'pageview');
 <p><strong>First place:</strong> RMIT-ADMS — Kun Ran, Shuoqi Sun, Khoi Nguyen Dinh Anh, Damiano Spina, Oleg Zendel</p>
 </blockquote>
 <p>The same page says that on the live challenge day, teams had to answer a stream of unseen questions under a <strong>two-hour</strong> time limit, and <strong>25 teams returned valid answers</strong>.</p>
-<p>The <a href="https://www.admscentre.org.au/arc-centre-of-excellence-team-wins-global-liverag-challenge-at-sigir-2025/" target="_blank" rel="noopener">ADM+S announcement</a> says the competition drew <strong>70 teams from 27 countries</strong>, and that during the live event teams had to answer <strong>500 never-before-seen questions</strong> using the same AI model and dataset.</p>
+<p>Like the <a href="https://www.admscentre.org.au/arc-centre-of-excellence-team-wins-global-liverag-challenge-at-sigir-2025/" target="_blank" rel="noopener">ADM+S announcement</a> said, the competition drew <strong>70 teams from 27 countries</strong>, and during the live event teams had to answer <strong>500 never-before-seen questions</strong> using the same AI model and dataset.</p>
 <p>That combination is exactly why this win feels special to me. It was not just about looking good on an offline benchmark. It was about building a system that could hold up under pressure.</p>
 <h3 id="2-NeurIPS-2025-MMU-RAG"><a href="#2-NeurIPS-2025-MMU-RAG" class="headerlink" title="2) NeurIPS 2025 MMU-RAG"></a>2) NeurIPS 2025 MMU-RAG</h3><p>After LiveRAG, we kept going.</p>
 <p>Our later system, <strong>R2RAG (Routing-to-RAG)</strong>, is described in our paper <a href="https://arxiv.org/abs/2602.20735" target="_blank" rel="noopener"><em>RMIT-ADM+S at the MMU-RAG NeurIPS 2025 Competition</em></a>. In that paper, we describe it as an <strong>award-winning</strong> system for the <strong>Text-to-Text track</strong>, and note that it won the <strong>Best Dynamic Evaluation award in the Open Source category</strong>.</p>
-<p>The <a href="https://www.admscentre.org.au/mmu-rag-challenge-win/" target="_blank" rel="noopener">ADM+S announcement on MMU-RAG</a> says the team won <strong>first place</strong> at the challenge. It also says something I think is very telling: <strong>81 teams registered, but only 8 submitted a fully working system</strong>.</p>
+<p>Like the <a href="https://www.admscentre.org.au/mmu-rag-challenge-win/" target="_blank" rel="noopener">ADM+S announcement on MMU-RAG</a> said, the team won <strong>first place</strong> at the challenge. It also mentioned something I think is very telling: <strong>81 teams registered, but only 8 submitted a fully working system</strong>.</p>
 <p>That statistic says a lot. In competitions like this, ideas matter, but engineering discipline matters just as much.</p>
 <h2 id="What-we-built"><a href="#What-we-built" class="headerlink" title="What we built"></a>What we built</h2><p>One thing I really like about this story is that the second system clearly grew out of the first.</p>
 <h3 id="LiveRAG-G-RAG-GRAG"><a href="#LiveRAG-G-RAG-GRAG" class="headerlink" title="LiveRAG: G-RAG / GRAG"></a>LiveRAG: G-RAG / GRAG</h3><p>In our <a href="https://arxiv.org/abs/2506.14516" target="_blank" rel="noopener">LiveRAG paper</a>, we described <strong>Generation-Retrieval-Augmented Generation (GRAG)</strong>.</p>
@@ -128,7 +128,7 @@ ga('send', 'pageview');
 <li>use that generated answer <strong>alongside the original question</strong> during retrieval,</li>
 <li>then apply <strong>LLM-based pointwise re-ranking</strong> before final answer generation.</li>
 </ul>
-<p>On <a href="https://www.damianospina.com/publication/ran-2025-grag/" target="_blank" rel="noopener">Damiano’s publication page</a>, the result is put very clearly: the submitted system achieved the <strong>highest Borda score</strong>, based on aggregated manual evaluation of <strong>Coverage, Relatedness, and Quality</strong>, and ranked <strong>first</strong> in the SIGIR 2025 LiveRAG Challenge.</p>
+<p>As <a href="https://www.damianospina.com/publication/ran-2025-grag/" target="_blank" rel="noopener">Damiano’s publication page</a> put it, the submitted system achieved the <strong>highest Borda score</strong>, based on aggregated manual evaluation of <strong>Coverage, Relatedness, and Quality</strong>, and ranked <strong>first</strong> in the SIGIR 2025 LiveRAG Challenge.</p>
 <h3 id="MMU-RAG-R2RAG"><a href="#MMU-RAG-R2RAG" class="headerlink" title="MMU-RAG: R2RAG"></a>MMU-RAG: R2RAG</h3><p>In MMU-RAG, we pushed the ideas further with <strong>Routing-to-RAG (R2RAG)</strong>.</p>
 <p>In the <a href="https://arxiv.org/abs/2602.20735" target="_blank" rel="noopener">MMU-RAG paper</a>, we describe R2RAG as a <strong>research-focused RAG architecture composed of lightweight components</strong> that dynamically adapt retrieval strategy based on:</p>
 <ul>
@@ -194,7 +194,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://blog.rankun.net/2026/03/25/two-rag-wins-live-rag-and-mmu-rag/" data-id="cmn5uctbr0026ub21184l8tce" class="article-share-link">Share</a>
+      <a data-url="https://blog.rankun.net/2026/03/25/two-rag-wins-live-rag-and-mmu-rag/" data-id="cmn5uju8v0023ur21aq2gg5hl" class="article-share-link">Share</a>
       
         <a href="https://blog.rankun.net/2026/03/25/two-rag-wins-live-rag-and-mmu-rag/#disqus_thread" class="article-comment-link">Comments</a>
       
