@@ -15,13 +15,13 @@ tags:
 - adms
 ---
 
-I still find this a bit surreal to write: our team ended up winning **two international RAG competitions in one year**.
+I still find this a bit surreal to write: our team had **two big RAG competition results in one year**.
 
 First, we won the [SIGIR 2025 LiveRAG Challenge](https://sigir2025.dei.unipd.it/live-rag-challenge.html). Later, at NeurIPS 2025 MMU-RAG, our system won the **Best Dynamic Evaluation award in the Open Source category** for the text-to-text track, as described in our [MMU-RAG system paper](https://arxiv.org/abs/2602.20735).
 
 As someone who spends a lot of time thinking about retrieval, evidence, and how LLM systems actually behave in realistic settings, this meant a lot to me. These competitions are not toy demos. They are messy, time-constrained, high-pressure evaluations where a system has to actually work.
 
-## The two wins
+## The two results
 
 ### 1) SIGIR 2025 LiveRAG Challenge
 
@@ -41,7 +41,7 @@ After LiveRAG, we kept going.
 
 Our later system, **R2RAG (Routing-to-RAG)**, is described in our paper [*RMIT-ADM+S at the MMU-RAG NeurIPS 2025 Competition*](https://arxiv.org/abs/2602.20735). In that paper, we describe it as an **award-winning** system for the **Text-to-Text track**, and note that it won the **Best Dynamic Evaluation award in the Open Source category**.
 
-Like the [ADM+S announcement on MMU-RAG](https://www.admscentre.org.au/mmu-rag-challenge-win/) said, the team won **first place** at the challenge. It also mentioned something I think is very telling: **81 teams registered, but only 8 submitted a fully working system**.
+Like the [ADM+S announcement on MMU-RAG](https://www.admscentre.org.au/mmu-rag-challenge-win/) said, this was the team's second big RAG competition result that year. It also mentioned something I think is very telling: **81 teams registered, but only 8 submitted a fully working system**.
 
 That statistic says a lot. In competitions like this, ideas matter, but engineering discipline matters just as much.
 
