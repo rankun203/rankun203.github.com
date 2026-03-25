@@ -31,7 +31,7 @@ On the [official LiveRAG challenge page](https://sigir2025.dei.unipd.it/live-rag
 
 The same page says that on the live challenge day, teams had to answer a stream of unseen questions under a **two-hour** time limit, and **25 teams returned valid answers**.
 
-The [ADM+S announcement](https://www.admscentre.org.au/arc-centre-of-excellence-team-wins-global-liverag-challenge-at-sigir-2025/) says the competition drew **70 teams from 27 countries**, and that during the live event teams had to answer **500 never-before-seen questions** using the same AI model and dataset.
+Like the [ADM+S announcement](https://www.admscentre.org.au/arc-centre-of-excellence-team-wins-global-liverag-challenge-at-sigir-2025/) said, the competition drew **70 teams from 27 countries**, and during the live event teams had to answer **500 never-before-seen questions** using the same AI model and dataset.
 
 That combination is exactly why this win feels special to me. It was not just about looking good on an offline benchmark. It was about building a system that could hold up under pressure.
 
@@ -41,7 +41,7 @@ After LiveRAG, we kept going.
 
 Our later system, **R2RAG (Routing-to-RAG)**, is described in our paper [*RMIT-ADM+S at the MMU-RAG NeurIPS 2025 Competition*](https://arxiv.org/abs/2602.20735). In that paper, we describe it as an **award-winning** system for the **Text-to-Text track**, and note that it won the **Best Dynamic Evaluation award in the Open Source category**.
 
-The [ADM+S announcement on MMU-RAG](https://www.admscentre.org.au/mmu-rag-challenge-win/) says the team won **first place** at the challenge. It also says something I think is very telling: **81 teams registered, but only 8 submitted a fully working system**.
+Like the [ADM+S announcement on MMU-RAG](https://www.admscentre.org.au/mmu-rag-challenge-win/) said, the team won **first place** at the challenge. It also mentioned something I think is very telling: **81 teams registered, but only 8 submitted a fully working system**.
 
 That statistic says a lot. In competitions like this, ideas matter, but engineering discipline matters just as much.
 
@@ -59,7 +59,7 @@ The core idea was simple, but effective:
 - use that generated answer **alongside the original question** during retrieval,
 - then apply **LLM-based pointwise re-ranking** before final answer generation.
 
-On [Damiano's publication page](https://www.damianospina.com/publication/ran-2025-grag/), the result is put very clearly: the submitted system achieved the **highest Borda score**, based on aggregated manual evaluation of **Coverage, Relatedness, and Quality**, and ranked **first** in the SIGIR 2025 LiveRAG Challenge.
+As [Damiano's publication page](https://www.damianospina.com/publication/ran-2025-grag/) put it, the submitted system achieved the **highest Borda score**, based on aggregated manual evaluation of **Coverage, Relatedness, and Quality**, and ranked **first** in the SIGIR 2025 LiveRAG Challenge.
 
 ### MMU-RAG: R2RAG
 
